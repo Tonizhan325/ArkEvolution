@@ -1,0 +1,13 @@
+h1, h2, legend, td{
+    text-align:center;
+}
+i{
+    font-size: 16px;
+}
+#informe{
+    width: 100%;
+}
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
