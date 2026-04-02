@@ -8,9 +8,14 @@ body{
     margin: 0;
 }
 
+p{
+    font-size: 3vh;
+}
+
 #contenedor{
     height: 100vh;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
 }
@@ -22,33 +27,29 @@ body{
     text-align: center;
     align-items: center;
     height: 50vh;
-    width: 20vw;
+    width: 33vw;
     border-radius: 15px;
     cursor: pointer;
+    color: white;
+    margin: 1%;
     img{
         width: 90%;
         height: 25vh;
     }
 }
 
-#titulo{
-    background: linear-gradient(to right, red, blue, green); 
-    -webkit-background-clip: text; 
-    background-clip: text;
-    -webkit-text-fill-color: transparent; 
-    text-align: center;
-    font-size: 10vh;
-}
-
-#historia{
-    background-color: red;
-}
-
-#diccionario{
-    background-color: blue;
-}
-
-#tiempo{
+#temporada1{
     background-color: green;
 }
 
+#temporada2{
+    background-color: blue;
+}
+
+#temporada3{
+    background-color: red;
+}
+
+#temporada4{
+    background-color: yellow;
+}

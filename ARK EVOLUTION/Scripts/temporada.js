@@ -1,0 +1,23 @@
+let divTemporada1 = document.getElementById("temporada1");
+
+divTemporada1.addEventListener("click", function(){
+    window.location.href = "Temporada 1/index.html";
+})
+
+let divTemporada2 = document.getElementById("temporada2");
+
+divTemporada2.addEventListener("click", function(){
+    window.location.href = "Temporada 2/index.html";
+})
+
+let divTemporada3 = document.getElementById("temporada3");
+
+divTemporada3.addEventListener("click", function(){
+    window.location.href = "Temporada 3/index.html";
+})
+
+let divTemporada4 = document.getElementById("temporada4");
+
+divTemporada4.addEventListener("click", function(){
+    window.location.href = "Temporada 4/index.html";
+})
