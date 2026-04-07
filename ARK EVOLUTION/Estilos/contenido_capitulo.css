@@ -1,0 +1,27 @@
+p{
+    font-size: 3vh;
+}
+
+#titulo{
+    text-align: center;
+    font-size: 7vh;
+}
+
+#contenedor{
+    border: black 2px solid;
+    padding: 1%;
+}
+
+#cajaBotones{
+    text-align: center;
+    margin-top: 2%;
+}
+
+button{
+    height: 4vh;
+    width: 6vw;
+}
+
+table{
+    margin-top: 1%;
+}

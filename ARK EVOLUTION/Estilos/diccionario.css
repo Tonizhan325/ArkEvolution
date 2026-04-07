@@ -1,0 +1,82 @@
+body{
+    background-image: url("../Imagenes/portada_ark_evolution.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;
+}
+
+button {
+    text-align: center;
+    height: 4vh;
+    width: 20vw;
+    background: linear-gradient(to right, red, blue, green);
+}
+
+#contenedor{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.caja{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 50vh;
+    width: 33vw;
+    border-radius: 15px;
+    cursor: pointer;
+    color: white;
+    margin: 1%;
+    img{
+        width: 90%;
+        height: 30vh;
+    }
+}
+
+#objetos{
+    background-color: red;
+}
+
+#tribus{
+    background-color: blue;
+}
+
+#dinosaurios{
+    background-color: yellow;
+}
+
+#armas_divinas{
+    background-color: goldenrod;
+}
+
+#personajes{
+    background-color: green;
+}
+
+#sistema_poder{
+    background-color: purple;
+}
+
+#niveles_poderes{
+    background-color: orange;
+}
+
+#divBoton{
+    text-align: center;
+}
+
+#titulo{
+    background: linear-gradient(to right, red, blue, green);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-size: 8vh;
+}
