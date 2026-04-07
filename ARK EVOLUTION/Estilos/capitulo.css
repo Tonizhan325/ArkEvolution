@@ -9,10 +9,12 @@ body{
 }
 
 #contenedor{
-    height: 90vh;
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     align-items: center;
+    width: 100%;
+    flex: 1;
 }
 
 .caja{
@@ -21,12 +23,19 @@ body{
     justify-content: center;
     text-align: center;
     align-items: center;
-    height: 10vh;
+    height: 5vh;
     width: 90%;
     border-radius: 15px;
     cursor: pointer;
     background-color:red;
     margin: 1%;
+}
+
+button {;
+    text-align: center;
+    height: 4vh;
+    width: 20vw;
+    background: linear-gradient(to right, red, blue, green);
 }
 
 #titulo{
@@ -38,8 +47,9 @@ body{
     font-size: 10vh;
 }
 
-#temporada1_volver{
-    display: block;
+.divBoton{
+    text-align: center;
 }
+
 
 

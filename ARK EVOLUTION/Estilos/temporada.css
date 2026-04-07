@@ -12,12 +12,20 @@ p{
     font-size: 3vh;
 }
 
-#contenedor{
-    height: 100vh;
+#contenedor {
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
     justify-content: space-around;
+    align-items: center;
+    flex: 1; 
+    width: 100%;
+}
+
+button {;
+    text-align: center;
+    height: 4vh;
+    width: 20vw;
+    background: linear-gradient(to right, red, blue, green);
 }
 
 .caja{
@@ -36,6 +44,19 @@ p{
         width: 90%;
         height: 25vh;
     }
+}
+
+#titulo{
+    background: linear-gradient(to right, red, blue, green);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-size: 10vh;
+}
+
+#divBoton{
+    text-align: center;
 }
 
 #temporada1{

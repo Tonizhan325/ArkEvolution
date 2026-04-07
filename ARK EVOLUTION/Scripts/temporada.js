@@ -21,3 +21,8 @@ let divTemporada4 = document.getElementById("temporada4");
 divTemporada4.addEventListener("click", function(){
     window.location.href = "Temporada 4/index.html";
 })
+
+let botonVolver = document.querySelectorAll("button");
+botonVolver.addEventListener("click", function(){
+    window.location.href = "../portada.html";
+})
