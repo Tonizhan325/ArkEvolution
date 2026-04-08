@@ -16,8 +16,9 @@ button {
 }
 
 #contenedor{
-    height: 100vh;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     align-items: center;
 }
 
@@ -28,8 +29,8 @@ button {
     justify-content: center;
     text-align: center;
     align-items: center;
-    height: 50vh;
-    width: 33vw;
+    height: 40vh;
+    width: 20vw;
     border-radius: 15px;
     cursor: pointer;
     color: white;
