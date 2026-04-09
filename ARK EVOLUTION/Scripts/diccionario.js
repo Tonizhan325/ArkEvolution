@@ -1824,3 +1824,430 @@ if (boton_artoria != null){
         window.location.href = "artoria.html"
     })
 }
+
+//SISTEMA DE PODER
+
+let boton_energia_ambiental = document.getElementById("energia_ambiental");
+
+if (boton_energia_ambiental != null){
+    boton_energia_ambiental.addEventListener("click", function(){
+        window.location.href = "Energía ambiental/index.html"
+    })
+}
+
+let boton_aura = document.getElementById("aura");
+
+if (boton_aura != null){
+    boton_aura.addEventListener("click", function(){
+        window.location.href = "Aura/index.html"
+    })
+}
+
+let boton_tecnicas_de_espada = document.getElementById("tecnicas_de_espada");
+
+if (boton_tecnicas_de_espada != null){
+    boton_tecnicas_de_espada.addEventListener("click", function(){
+        window.location.href = "Técnicas de espada/index.html"
+    })
+}
+
+let boton_poder_ocular= document.getElementById("poder_ocular");
+
+if (boton_poder_ocular != null){
+    boton_poder_ocular.addEventListener("click", function(){
+        window.location.href = "Poder ocular/index.html"
+    })
+}
+
+let boton_armadura_jurasica = document.getElementById("armadura_jurasica");
+
+if (boton_armadura_jurasica != null){
+    boton_armadura_jurasica.addEventListener("click", function(){
+        window.location.href = "Armadura jurásica/index.html"
+    })
+}
+
+let boton_nivel_muy_bajo = document.getElementById("nivel_muy_bajo");
+
+if (boton_nivel_muy_bajo!= null){
+    boton_nivel_muy_bajo.addEventListener("click", function(){
+        window.location.href = "muy_bajo.html"
+    })
+}
+
+let boton_nivel_bajo = document.getElementById("nivel_bajo");
+
+if (boton_nivel_bajo != null){
+    boton_nivel_bajo.addEventListener("click", function(){
+        window.location.href = "bajo.html"
+    })
+}
+
+let boton_nivel_bajo_medio = document.getElementById("nivel_bajo_medio");
+
+if (boton_nivel_bajo_medio != null){
+    boton_nivel_bajo_medio.addEventListener("click", function(){
+        window.location.href = "bajo_medio.html"
+    })
+}
+
+let boton_nivel_medio = document.getElementById("nivel_medio");
+
+if (boton_nivel_medio != null){
+    boton_nivel_medio.addEventListener("click", function(){
+        window.location.href = "medio.html"
+    })
+}
+
+let boton_nivel_alto_medio = document.getElementById("nivel_alto_medio");
+
+if (boton_nivel_alto_medio != null){
+    boton_nivel_alto_medio.addEventListener("click", function(){
+        window.location.href = "alto_medio.html"
+    })
+}
+
+let boton_nivel_alto = document.getElementById("nivel_alto");
+
+if (boton_nivel_alto != null){
+    boton_nivel_alto.addEventListener("click", function(){
+        window.location.href = "alto.html"
+    })
+}
+
+let boton_nivel_muy_alto = document.getElementById("nivel_muy_alto");
+
+if (boton_nivel_muy_alto != null){
+    boton_nivel_muy_alto.addEventListener("click", function(){
+        window.location.href = "muy_alto.html"
+    })
+}
+
+let boton_nivel_extremadamente_alto = document.getElementById("nivel_extremadamente_alto");
+
+if (boton_nivel_extremadamente_alto != null){
+    boton_nivel_extremadamente_alto.addEventListener("click", function(){
+        window.location.href = "extremadamente_alto.html"
+    })
+}
+
+let boton_nivel_maestro = document.getElementById("nivel_maestro");
+
+if (boton_nivel_maestro != null){
+    boton_nivel_maestro.addEventListener("click", function(){
+        window.location.href = "maestro.html"
+    })
+}
+
+let boton_nivel_dios = document.getElementById("nivel_dios");
+
+if (boton_nivel_dios != null){
+    boton_nivel_dios.addEventListener("click", function(){
+        window.location.href = "dios.html"
+    })
+}
+
+let boton_aura_del_emperador = document.getElementById("aura_del_emperador");
+
+if (boton_aura_del_emperador != null){
+    boton_aura_del_emperador.addEventListener("click", function(){
+        window.location.href = "aura_emperador.html"
+    })
+}
+
+let boton_fenix_armadura = document.getElementById("fenix_armadura");
+
+if (boton_fenix_armadura != null){
+    boton_fenix_armadura.addEventListener("click", function(){
+        window.location.href = "fenix.html"
+    })
+}
+
+let boton_daeodon_armadura = document.getElementById("daeodon_armadura");
+
+if (boton_daeodon_armadura != null){
+    boton_daeodon_armadura.addEventListener("click", function(){
+        window.location.href = "daeodon.html"
+    })
+}
+
+let boton_yutyrannus_armadura = document.getElementById("yutyrannus_armadura");
+
+if (boton_yutyrannus_armadura != null){
+    boton_yutyrannus_armadura.addEventListener("click", function(){
+        window.location.href = "yutyrannus.html"
+    })
+}
+
+let boton_megalodon_armadura = document.getElementById("megalodon_armadura");
+
+if (boton_megalodon_armadura != null){
+    boton_megalodon_armadura.addEventListener("click", function(){
+        window.location.href = "megalodon.html"
+    })
+}
+
+let boton_raptor_armadura = document.getElementById("raptor_armadura");
+
+if (boton_raptor_armadura != null){
+    boton_raptor_armadura.addEventListener("click", function(){
+        window.location.href = "raptor.html"
+    })
+}
+
+let boton_sarcocuchus_armadura = document.getElementById("sarcocuchus_armadura");
+
+if (boton_sarcocuchus_armadura != null){
+    boton_sarcocuchus_armadura.addEventListener("click", function(){
+        window.location.href = "sarcocuchus.html"
+    })
+}
+
+let boton_fuego = document.getElementById("fuego");
+
+if (boton_fuego != null){
+    boton_fuego.addEventListener("click", function(){
+        window.location.href = "fuego.html"
+    })
+}
+
+let boton_agua = document.getElementById("agua");
+
+if (boton_agua != null){
+    boton_agua.addEventListener("click", function(){
+        window.location.href = "agua.html"
+    })
+}
+
+let boton_arena = document.getElementById("arena");
+
+if (boton_arena != null){
+    boton_arena.addEventListener("click", function(){
+        window.location.href = "arena.html"
+    })
+}
+
+let boton_dimensional = document.getElementById("dimensional");
+
+if (boton_dimensional != null){
+    boton_dimensional.addEventListener("click", function(){
+        window.location.href = "dimensional.html"
+    })
+}
+
+let boton_explosion = document.getElementById("explosion");
+
+if (boton_explosion != null){
+    boton_explosion.addEventListener("click", function(){
+        window.location.href = "explosion.html"
+    })
+}
+
+let boton_fantasmal = document.getElementById("fantasmal");
+
+if (boton_fantasmal != null){
+    boton_fantasmal.addEventListener("click", function(){
+        window.location.href = "fantasmal.html"
+    })
+}
+
+let boton_gravedad = document.getElementById("gravedad");
+
+if (boton_gravedad != null){
+    boton_gravedad.addEventListener("click", function(){
+        window.location.href = "gravedad.html"
+    })
+}
+
+let boton_hielo = document.getElementById("hielo");
+
+if (boton_hielo != null){
+    boton_hielo.addEventListener("click", function(){
+        window.location.href = "hielo.html"
+    })
+}
+
+let boton_luz = document.getElementById("luz");
+
+if (boton_luz != null){
+    boton_luz.addEventListener("click", function(){
+        window.location.href = "luz.html"
+    })
+}
+
+let boton_metal_energia = document.getElementById("metal_energia");
+
+if (boton_metal_energia != null){
+    boton_metal_energia.addEventListener("click", function(){
+        window.location.href = "metal.html"
+    })
+}
+
+let boton_oscuridad = document.getElementById("oscuridad");
+
+if (boton_oscuridad != null){
+    boton_oscuridad.addEventListener("click", function(){
+        window.location.href = "oscuridad.html"
+    })
+}
+
+let boton_planta = document.getElementById("planta");
+
+if (boton_planta != null){
+    boton_planta.addEventListener("click", function(){
+        window.location.href = "planta.html"
+    })
+}
+
+let boton_rayo = document.getElementById("rayo");
+
+if (boton_rayo != null){
+    boton_rayo.addEventListener("click", function(){
+        window.location.href = "rayo.html"
+    })
+}
+
+let boton_roca = document.getElementById("roca");
+
+if (boton_roca != null){
+    boton_roca.addEventListener("click", function(){
+        window.location.href = "roca.html"
+    })
+}
+
+let boton_sonido = document.getElementById("sonido");
+
+if (boton_sonido != null){
+    boton_sonido.addEventListener("click", function(){
+        window.location.href = "sonido.html"
+    })
+}
+
+let boton_veneno = document.getElementById("veneno");
+
+if (boton_veneno != null){
+    boton_veneno.addEventListener("click", function(){
+        window.location.href = "veneno.html"
+    })
+}
+
+let boton_viento = document.getElementById("viento");
+
+if (boton_viento != null){
+    boton_viento.addEventListener("click", function(){
+        window.location.href = "viento.html"
+    })
+}
+
+let boton_ojos_divinos = document.getElementById("ojo_divino");
+
+if (boton_ojos_divinos != null){
+    boton_ojos_divinos.addEventListener("click", function(){
+        window.location.href = "ojo_divino.html"
+    })
+}
+
+let boton_ojos_magicos = document.getElementById("ojo_magico");
+
+if (boton_ojos_magicos!= null){
+    boton_ojos_magicos.addEventListener("click", function(){
+        window.location.href = "ojo_magico.html"
+    })
+}
+
+let boton_ojos_magicos_evolucionados = document.getElementById("ojo_magico_evolucionado");
+
+if (boton_ojos_magicos_evolucionados != null){
+    boton_ojos_magicos_evolucionados.addEventListener("click", function(){
+        window.location.href = "ojo_magico_evolucionado.html"
+    })
+}
+
+let boton_ojos_cuanticos = document.getElementById("ojo_cuantico");
+
+if (boton_ojos_cuanticos != null){
+    boton_ojos_cuanticos.addEventListener("click", function(){
+        window.location.href = "ojo_cuantico.html"
+    })
+}
+
+let boton_una_espada = document.getElementById("tecnica_de_una_espada");
+
+if (boton_una_espada != null){
+    boton_una_espada.addEventListener("click", function(){
+        window.location.href = "1espada.html"
+    })
+}
+
+let boton_dos_espadas = document.getElementById("tecnica_de_dos_espadas");
+
+if (boton_dos_espadas != null){
+    boton_dos_espadas.addEventListener("click", function(){
+        window.location.href = "2espada.html"
+    })
+}
+
+//TRIBUS
+
+let boton_roja_escarcha = document.getElementById("roja_escarcha");
+
+if (boton_roja_escarcha != null){
+    boton_roja_escarcha.addEventListener("click", function(){
+        window.location.href = "roja_escarcha.html"
+    })
+}
+
+let boton_pluma_amarilla = document.getElementById("pluma_amarilla");
+
+if (boton_pluma_amarilla != null){
+    boton_pluma_amarilla.addEventListener("click", function(){
+        window.location.href = "pluma_amarilla.html"
+    })
+}
+
+let boton_corona_verde = document.getElementById("corona_verde");
+
+if (boton_corona_verde != null){
+    boton_corona_verde.addEventListener("click", function(){
+        window.location.href = "corona_verde.html"
+    })
+}
+
+let boton_picuchillo = document.getElementById("picuchillo");
+
+if (boton_picuchillo != null){
+    boton_picuchillo.addEventListener("click", function(){
+        window.location.href = "picuchillo.html"
+    })
+}
+
+let boton_gromp = document.getElementById("gromp");
+
+if (boton_gromp != null){
+    boton_gromp.addEventListener("click", function(){
+        window.location.href = "gromp.html"
+    })
+}
+
+let boton_herald = document.getElementById("herald");
+
+if (boton_herald != null){
+    boton_herald.addEventListener("click", function(){
+        window.location.href = "herald.html"
+    })
+}
+
+let boton_nashor = document.getElementById("nashor");
+
+if (boton_nashor != null){
+    boton_nashor.addEventListener("click", function(){
+        window.location.href = "nashor.html"
+    })
+}
+
+
+
+
+
+
+
