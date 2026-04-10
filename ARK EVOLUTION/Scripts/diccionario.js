@@ -365,7 +365,7 @@ if (boton_quetzal != null){
 let boton_gallimimus = document.getElementById("gallimimus");
 
 if (boton_gallimimus != null){
-    boton_galliminus.addEventListener("click", function(){
+    boton_gallimimus.addEventListener("click", function(){
         window.location.href = "gallimimus.html"
     })
 }
