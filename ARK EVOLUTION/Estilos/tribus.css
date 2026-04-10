@@ -1,0 +1,12 @@
+#divBoton{
+    text-align: center;
+}
+
+#titulo{
+    background: linear-gradient(to right, red, blue, green);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-size: 8vh;
+}

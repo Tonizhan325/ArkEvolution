@@ -70,6 +70,14 @@ if (boton_volver_diccionario_interior != null){
     })
 }
 
+let boton_volver_diccionario_interior_interior = document.getElementById("diccionario_volver_interior_interior");
+
+if (boton_volver_diccionario_interior_interior != null){
+    boton_volver_diccionario_interior_interior.addEventListener("click", function(){
+        window.location.href = "index.html"
+    })
+}
+
 //ARMAS DIVINAS
 
 let boton_arena_x = document.getElementById("arena_x");
@@ -238,7 +246,7 @@ let boton_giganotosaurio = document.getElementById("giganotosaurio");
 
 if (boton_giganotosaurio != null){
     boton_giganotosaurio.addEventListener("click", function(){
-        window.location.href = "giganotosaurio.html"
+        window.location.href = "giganoto.html"
     })
 }
 
