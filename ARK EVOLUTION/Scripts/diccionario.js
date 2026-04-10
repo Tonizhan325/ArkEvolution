@@ -1691,7 +1691,7 @@ if (boton_marcos != null){
 
 let boton_flat = document.getElementById("flat");
 
-if (boton_falt != null){
+if (boton_flat != null){
     boton_flat.addEventListener("click", function(){
         window.location.href = "flat.html"
     })
