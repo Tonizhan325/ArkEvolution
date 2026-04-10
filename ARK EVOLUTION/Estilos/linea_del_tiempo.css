@@ -1,0 +1,18 @@
+body{
+    background-image: url("../Imagenes/portada_ark_evolution.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;
+}
+
+#titulo{
+    background: linear-gradient(to right, red, blue, green); 
+    -webkit-background-clip: text; 
+    background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    text-align: center;
+    font-size: 10vh;
+}
