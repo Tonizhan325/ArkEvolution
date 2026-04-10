@@ -1785,7 +1785,7 @@ if (boton_jack != null){
     })
 }
 
-let boton_carreterro = document.getElementById("carretero");
+let boton_carretero = document.getElementById("carretero");
 
 if (boton_carretero != null){
     boton_carretero.addEventListener("click", function(){
