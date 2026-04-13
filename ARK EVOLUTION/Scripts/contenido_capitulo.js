@@ -315,3 +315,20 @@ if (boton_siguiente_t1_epilogo != null){
         window.location.href = "t2_prologo.html";
     })
 }
+
+let boton_anterior_t2_prologo = document.getElementById("boton_anterior_t2_prologo");
+
+if (boton_anterior_t2_prologo != null){
+    boton_anterior_t2_prologo.addEventListener("click", function(){
+        window.location.href = "t1_epilogo.html";
+    })
+}
+
+let boton_siguiente_t2_prologo = document.getElementById("boton_siguiente_t2_prologo");
+
+if (boton_siguiente_t2_prologo != null){
+    boton_siguiente_t2_prologo.addEventListener("click", function(){
+        window.location.href = "t2_1.html";
+    })
+}
+
