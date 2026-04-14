@@ -1180,4 +1180,708 @@ if (boton_siguiente_t3_epilogo != null){
     })
 }
 
+let boton_anterior_t4_prologo = document.getElementById("boton_anterior_t4_prologo");
+
+if (boton_anterior_t4_prologo != null){
+    boton_anterior_t4_prologo.addEventListener("click", function(){
+        window.location.href = "t3_epilogo.html";
+    })
+}
+
+let boton_siguiente_t4_prologo = document.getElementById("boton_siguiente_t4_prologo");
+
+if (boton_siguiente_t4_prologo != null){
+    boton_siguiente_t4_prologo.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_anterior_t4_1 = document.getElementById("boton_anterior_t4_1");
+
+if (boton_anterior_t4_1 != null){
+    boton_anterior_t4_1.addEventListener("click", function(){
+        window.location.href = "t4_prologo.html";
+    })
+}
+
+let boton_siguiente_t4_1 = document.getElementById("boton_siguiente_t4_1");
+
+if (boton_siguiente_t4_1 != null){
+    boton_siguiente_t4_1.addEventListener("click", function(){
+        window.location.href = "t4_2.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_3 = document.getElementById("boton_anterior_t4_3");
+
+if (boton_anterior_t4_3 != null){
+    boton_anterior_t4_3.addEventListener("click", function(){
+        window.location.href = "t4_2.html";
+    })
+}
+
+let boton_siguiente_t4_3 = document.getElementById("boton_siguiente_t4_3");
+
+if (boton_siguiente_t4_3 != null){
+    boton_siguiente_t4_3.addEventListener("click", function(){
+        window.location.href = "t4_4.html";
+    })
+}
+
+let boton_anterior_t4_4 = document.getElementById("boton_anterior_t4_4");
+
+if (boton_anterior_t4_4 != null){
+    boton_anterior_t4_4.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_siguiente_t4_4 = document.getElementById("boton_siguiente_t4_4");
+
+if (boton_siguiente_t4_4 != null){
+    boton_siguiente_t4_4.addEventListener("click", function(){
+        window.location.href = "t4_5.html";
+    })
+}
+
+let boton_anterior_t4_5 = document.getElementById("boton_anterior_t4_5");
+
+if (boton_anterior_t4_5 != null){
+    boton_anterior_t4_5.addEventListener("click", function(){
+        window.location.href = "t4_4.html";
+    })
+}
+
+let boton_siguiente_t4_5 = document.getElementById("boton_siguiente_t4_5");
+
+if (boton_siguiente_t4_5 != null){
+    boton_siguiente_t4_5.addEventListener("click", function(){
+        window.location.href = "t4_6.html";
+    })
+}
+
+let boton_anterior_t4_6 = document.getElementById("boton_anterior_t4_6");
+
+if (boton_anterior_t4_6 != null){
+    boton_anterior_t4_6.addEventListener("click", function(){
+        window.location.href = "t4_5.html";
+    })
+}
+
+let boton_siguiente_t4_6 = document.getElementById("boton_siguiente_t4_6");
+
+if (boton_siguiente_t4_6 != null){
+    boton_siguiente_t4_6.addEventListener("click", function(){
+        window.location.href = "t4_7.html";
+    })
+}
+
+let boton_anterior_t4_7 = document.getElementById("boton_anterior_t4_7");
+
+if (boton_anterior_t4_7 != null){
+    boton_anterior_t4_7.addEventListener("click", function(){
+        window.location.href = "t4_6.html";
+    })
+}
+
+let boton_siguiente_t4_7 = document.getElementById("boton_siguiente_t4_7");
+
+if (boton_siguiente_t4_7 != null){
+    boton_siguiente_t4_7.addEventListener("click", function(){
+        window.location.href = "t4_8.html";
+    })
+}
+
+let boton_anterior_t4_8 = document.getElementById("boton_anterior_t4_8");
+
+if (boton_anterior_t4_8 != null){
+    boton_anterior_t4_8.addEventListener("click", function(){
+        window.location.href = "t4_7.html";
+    })
+}
+
+let boton_siguiente_t4_8 = document.getElementById("boton_siguiente_t4_8");
+
+if (boton_siguiente_t4_8 != null){
+    boton_siguiente_t4_8.addEventListener("click", function(){
+        window.location.href = "t4_9.html";
+    })
+}
+
+let boton_anterior_t4_9 = document.getElementById("boton_anterior_t4_9");
+
+if (boton_anterior_t4_9 != null){
+    boton_anterior_t4_9.addEventListener("click", function(){
+        window.location.href = "t4_8.html";
+    })
+}
+
+let boton_siguiente_t4_9 = document.getElementById("boton_siguiente_t4_9");
+
+if (boton_siguiente_t4_9 != null){
+    boton_siguiente_t4_9.addEventListener("click", function(){
+        window.location.href = "t4_10.html";
+    })
+}
+
+let boton_anterior_t4_10 = document.getElementById("boton_anterior_t4_10");
+
+if (boton_anterior_t4_10 != null){
+    boton_anterior_t4_10.addEventListener("click", function(){
+        window.location.href = "t4_9.html";
+    })
+}
+
+let boton_siguiente_t4_10 = document.getElementById("boton_siguiente_t4_10");
+
+if (boton_siguiente_t4_10 != null){
+    boton_siguiente_t4_10.addEventListener("click", function(){
+        window.location.href = "t4_11.html";
+    })
+}
+
+let boton_anterior_t4_11 = document.getElementById("boton_anterior_t4_11");
+
+if (boton_anterior_t4_11 != null){
+    boton_anterior_t4_11.addEventListener("click", function(){
+        window.location.href = "t4_10.html";
+    })
+}
+
+let boton_siguiente_t4_11 = document.getElementById("boton_siguiente_t4_11");
+
+if (boton_siguiente_t4_11 != null){
+    boton_siguiente_t4_11.addEventListener("click", function(){
+        window.location.href = "t4_12.html";
+    })
+}
+
+let boton_anterior_t4_12 = document.getElementById("boton_anterior_t4_12");
+
+if (boton_anterior_t4_12 != null){
+    boton_anterior_t4_12.addEventListener("click", function(){
+        window.location.href = "t4_11.html";
+    })
+}
+
+let boton_siguiente_t4_12 = document.getElementById("boton_siguiente_t4_12");
+
+if (boton_siguiente_t4_12 != null){
+    boton_siguiente_t4_12.addEventListener("click", function(){
+        window.location.href = "t4_13.html";
+    })
+}
+
+let boton_anterior_t4_13 = document.getElementById("boton_anterior_t4_13");
+
+if (boton_anterior_t4_13 != null){
+    boton_anterior_t4_13.addEventListener("click", function(){
+        window.location.href = "t4_12.html";
+    })
+}
+
+let boton_siguiente_t4_13 = document.getElementById("boton_siguiente_t4_13");
+
+if (boton_siguiente_t4_13 != null){
+    boton_siguiente_t4_13.addEventListener("click", function(){
+        window.location.href = "t4_14.html";
+    })
+}
+
+let boton_anterior_t4_14 = document.getElementById("boton_anterior_t4_14");
+
+if (boton_anterior_t4_14 != null){
+    boton_anterior_t4_14.addEventListener("click", function(){
+        window.location.href = "t4_13.html";
+    })
+}
+
+let boton_siguiente_t4_14 = document.getElementById("boton_siguiente_t4_14");
+
+if (boton_siguiente_t4_14 != null){
+    boton_siguiente_t4_14.addEventListener("click", function(){
+        window.location.href = "t4_15.html";
+    })
+}
+
+let boton_anterior_t4_15 = document.getElementById("boton_anterior_t4_15");
+
+if (boton_anterior_t4_15 != null){
+    boton_anterior_t4_15.addEventListener("click", function(){
+        window.location.href = "t4_14.html";
+    })
+}
+
+let boton_siguiente_t4_15 = document.getElementById("boton_siguiente_t4_15");
+
+if (boton_siguiente_t4_15 != null){
+    boton_siguiente_t4_15.addEventListener("click", function(){
+        window.location.href = "t4_16.html";
+    })
+}
+
+let boton_anterior_t4_16 = document.getElementById("boton_anterior_t4_16");
+
+if (boton_anterior_t4_16 != null){
+    boton_anterior_t4_16.addEventListener("click", function(){
+        window.location.href = "t4_15.html";
+    })
+}
+
+let boton_siguiente_t4_16 = document.getElementById("boton_siguiente_t4_16");
+
+if (boton_siguiente_t4_16 != null){
+    boton_siguiente_t4_16.addEventListener("click", function(){
+        window.location.href = "t4_17.html";
+    })
+}
+
+let boton_anterior_t4_17 = document.getElementById("boton_anterior_t4_17");
+
+if (boton_anterior_t4_17 != null){
+    boton_anterior_t4_17.addEventListener("click", function(){
+        window.location.href = "t4_16.html";
+    })
+}
+
+let boton_siguiente_t4_17 = document.getElementById("boton_siguiente_t4_17");
+
+if (boton_siguiente_t4_17 != null){
+    boton_siguiente_t4_17.addEventListener("click", function(){
+        window.location.href = "t4_18.html";
+    })
+}
+
+let boton_anterior_t4_18 = document.getElementById("boton_anterior_t4_18");
+
+if (boton_anterior_t4_18 != null){
+    boton_anterior_t4_18.addEventListener("click", function(){
+        window.location.href = "t4_17.html";
+    })
+}
+
+let boton_siguiente_t4_18 = document.getElementById("boton_siguiente_t4_18");
+
+if (boton_siguiente_t4_18 != null){
+    boton_siguiente_t4_18.addEventListener("click", function(){
+        window.location.href = "t4_19.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
+let boton_anterior_t4_2 = document.getElementById("boton_anterior_t4_2");
+
+if (boton_anterior_t4_2 != null){
+    boton_anterior_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_1.html";
+    })
+}
+
+let boton_siguiente_t4_2 = document.getElementById("boton_siguiente_t4_2");
+
+if (boton_siguiente_t4_2 != null){
+    boton_siguiente_t4_2.addEventListener("click", function(){
+        window.location.href = "t4_3.html";
+    })
+}
+
 
