@@ -312,7 +312,7 @@ let boton_siguiente_t1_epilogo = document.getElementById("boton_siguiente_t1_epi
 
 if (boton_siguiente_t1_epilogo != null){
     boton_siguiente_t1_epilogo.addEventListener("click", function(){
-        window.location.href = "t2_prologo.html";
+        window.location.href = "../Temporada 2/t2_prologo.html";
     })
 }
 
@@ -320,7 +320,7 @@ let boton_anterior_t2_prologo = document.getElementById("boton_anterior_t2_prolo
 
 if (boton_anterior_t2_prologo != null){
     boton_anterior_t2_prologo.addEventListener("click", function(){
-        window.location.href = "t1_epilogo.html";
+        window.location.href = "../Temporada 1/t1_epilogo.html";
     })
 }
 
@@ -712,7 +712,7 @@ let boton_siguiente_t2_epilogo = document.getElementById("boton_siguiente_t2_epi
 
 if (boton_siguiente_t2_epilogo != null){
     boton_siguiente_t2_epilogo.addEventListener("click", function(){
-        window.location.href = "t3_prologo.html";
+        window.location.href = "../Temporada 3/t3_prologo.html";
     })
 }
 
@@ -720,7 +720,7 @@ let boton_anterior_t3_prologo = document.getElementById("boton_anterior_t3_prolo
 
 if (boton_anterior_t3_prologo != null){
     boton_anterior_t3_prologo.addEventListener("click", function(){
-        window.location.href = "t2_epilogo.html";
+        window.location.href = "../Temporada 2/t2_epilogo.html";
     })
 }
 
@@ -1176,7 +1176,7 @@ let boton_siguiente_t3_epilogo = document.getElementById("boton_siguiente_t3_epi
 
 if (boton_siguiente_t3_epilogo != null){
     boton_siguiente_t3_epilogo.addEventListener("click", function(){
-        window.location.href = "t4_prologo.html";
+        window.location.href = "../Temporada 4/t4_prologo.html";
     })
 }
 
@@ -1184,7 +1184,7 @@ let boton_anterior_t4_prologo = document.getElementById("boton_anterior_t4_prolo
 
 if (boton_anterior_t4_prologo != null){
     boton_anterior_t4_prologo.addEventListener("click", function(){
-        window.location.href = "t3_epilogo.html";
+        window.location.href = "../Temporada 3/t3_epilogo.html";
     })
 }
 
@@ -1896,7 +1896,7 @@ let boton_siguiente_t4_epilogo = document.getElementById("boton_siguiente_t4_epi
 
 if (boton_siguiente_t4_epilogo != null){
     boton_siguiente_t4_epilogo.addEventListener("click", function(){
-        window.location.href = "t5_prologo.html";
+        window.location.href = "../Temporada 5/t5_prologo.html";
     })
 }
 
