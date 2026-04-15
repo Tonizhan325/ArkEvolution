@@ -1,5 +1,6 @@
 #divBoton{
     text-align: center;
+    margin-top: 5%;
 }
 
 #titulo{
@@ -9,4 +10,34 @@
     -webkit-text-fill-color: transparent;
     text-align: center;
     font-size: 8vh;
+}
+
+#contenedor{
+    display: grid;
+    grid-template-areas: "nombre nombre"
+                         "imagen informacion";
+}
+
+#nombre{
+    grid-area: nombre;
+    height: 10vh;
+    text-align: center;
+    align-content: center;
+    font-size: 5vh;
+}
+
+#imagen{
+    grid-area: imagen;
+    height: 60vh;
+    align-content: center;
+    margin: 0 auto;
+}
+
+#informacion{
+    grid-area: informacion;
+    height: 60vh;
+    text-align: center;
+    align-content: center;
+    font-size: 2vh;
+    border: solid 2px black;
 }
