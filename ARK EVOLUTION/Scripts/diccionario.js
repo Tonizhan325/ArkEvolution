@@ -2147,6 +2147,23 @@ if (boton_viento != null){
     })
 }
 
+let boton_magia = document.getElementById("magia");
+
+if (boton_magia != null){
+    boton_magia.addEventListener("click", function(){
+        window.location.href = "magia.html"
+    })
+}
+
+let boton_tiempo = document.getElementById("tiempo");
+
+if (boton_tiempo != null){
+    boton_tiempo.addEventListener("click", function(){
+        window.location.href = "tiempo.html"
+    })
+}
+
+
 let boton_ojos_divinos = document.getElementById("ojo_divino");
 
 if (boton_ojos_divinos != null){
