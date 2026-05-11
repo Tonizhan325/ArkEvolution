@@ -1900,4 +1900,20 @@ if (boton_siguiente_t4_epilogo != null){
     })
 }
 
+let boton_anterior_t5_prologo = document.getElementById("boton_anterior_t5_prologo");
+
+if (boton_anterior_t5_prologo != null){
+    boton_anterior_t5_prologo.addEventListener("click", function(){
+        window.location.href = "../Temporada 4/t4_epilogo.html";
+    })
+}
+
+let boton_siguiente_t5_prologo = document.getElementById("boton_siguiente_t5_prologo");
+
+if (boton_siguiente_t5_prologo != null){
+    boton_siguiente_t5_prologo.addEventListener("click", function(){
+        window.location.href = "t5_1.html";
+    })
+}
+
 
