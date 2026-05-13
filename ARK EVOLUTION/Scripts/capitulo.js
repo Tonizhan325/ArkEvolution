@@ -842,3 +842,130 @@ if (temporada4_epilogo != null) {
         window.location.href = "t4_epilogo.html";
     });
 }
+
+// TEMPORADA 5
+let temporada5_prologo = document.getElementById("t5_prologo");
+if (temporada5_prologo != null) {
+    temporada5_prologo.addEventListener("click", function () {
+        window.location.href = "t5_prologo.html";
+    });
+}
+
+let temporada5_capitulo1 = document.getElementById("t5_capitulo1");
+if (temporada5_capitulo1 != null) {
+    temporada5_capitulo1.addEventListener("click", function () {
+        window.location.href = "t5_1.html";
+    });
+}
+
+let temporada5_capitulo2 = document.getElementById("t5_capitulo2");
+if (temporada5_capitulo2 != null) {
+    temporada5_capitulo2.addEventListener("click", function () {
+        window.location.href = "t5_2.html";
+    });
+}
+
+let temporada5_capitulo3 = document.getElementById("t5_capitulo3");
+if (temporada5_capitulo3 != null) {
+    temporada5_capitulo3.addEventListener("click", function () {
+        window.location.href = "t5_3.html";
+    });
+}
+
+let temporada5_capitulo4 = document.getElementById("t5_capitulo4");
+if (temporada5_capitulo4 != null) {
+    temporada5_capitulo4.addEventListener("click", function () {
+        window.location.href = "t5_4.html";
+    });
+}
+
+let temporada5_capitulo5 = document.getElementById("t5_capitulo5");
+if (temporada5_capitulo5 != null) {
+    temporada5_capitulo5.addEventListener("click", function () {
+        window.location.href = "t5_5.html";
+    });
+}
+
+let temporada5_capitulo6 = document.getElementById("t5_capitulo6");
+if (temporada5_capitulo6 != null) {
+    temporada5_capitulo6.addEventListener("click", function () {
+        window.location.href = "t5_6.html";
+    });
+}
+
+let temporada5_capitulo7 = document.getElementById("t5_capitulo7");
+if (temporada5_capitulo7 != null) {
+    temporada5_capitulo7.addEventListener("click", function () {
+        window.location.href = "t5_7.html";
+    });
+}
+
+let temporada5_capitulo8 = document.getElementById("t5_capitulo8");
+if (temporada5_capitulo8 != null) {
+    temporada5_capitulo8.addEventListener("click", function () {
+        window.location.href = "t5_8.html";
+    });
+}
+
+let temporada5_capitulo9 = document.getElementById("t5_capitulo9");
+if (temporada5_capitulo9 != null) {
+    temporada5_capitulo9.addEventListener("click", function () {
+        window.location.href = "t5_9.html";
+    });
+}
+
+let temporada5_capitulo10 = document.getElementById("t5_capitulo10");
+if (temporada5_capitulo10 != null) {
+    temporada5_capitulo10.addEventListener("click", function () {
+        window.location.href = "t5_10.html";
+    });
+}
+
+let temporada5_capitulo11 = document.getElementById("t5_capitulo11");
+if (temporada5_capitulo11 != null) {
+    temporada5_capitulo11.addEventListener("click", function () {
+        window.location.href = "t5_11.html";
+    });
+}
+
+let temporada5_capitulo12 = document.getElementById("t5_capitulo12");
+if (temporada5_capitulo12 != null) {
+    temporada5_capitulo12.addEventListener("click", function () {
+        window.location.href = "t5_12.html";
+    });
+}
+
+let temporada5_capitulo13 = document.getElementById("t5_capitulo13");
+if (temporada5_capitulo13 != null) {
+    temporada5_capitulo13.addEventListener("click", function () {
+        window.location.href = "t5_13.html";
+    });
+}
+
+let temporada5_capitulo14 = document.getElementById("t5_capitulo14");
+if (temporada5_capitulo14 != null) {
+    temporada5_capitulo14.addEventListener("click", function () {
+        window.location.href = "t5_14.html";
+    });
+}
+
+let temporada5_capitulo15 = document.getElementById("t5_capitulo15");
+if (temporada5_capitulo15 != null) {
+    temporada5_capitulo15.addEventListener("click", function () {
+        window.location.href = "t5_15.html";
+    });
+}
+
+let temporada5_capitulo16 = document.getElementById("t5_capitulo16");
+if (temporada5_capitulo16 != null) {
+    temporada5_capitulo16.addEventListener("click", function () {
+        window.location.href = "t5_16.html";
+    });
+}
+
+let temporada5_epilogo = document.getElementById("t5_epilogo");
+if (temporada5_epilogo != null) {
+    temporada5_epilogo.addEventListener("click", function () {
+        window.location.href = "t5_epilogo.html";
+    });
+}
