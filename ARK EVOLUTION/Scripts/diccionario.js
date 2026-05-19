@@ -168,6 +168,14 @@ if (boton_leviatan != null){
     })
 }
 
+let boton_aron = document.getElementById("aron");
+
+if (boton_aron != null){
+    boton_aron.addEventListener("click", function(){
+        window.location.href = "aron.html"
+    })
+}
+
 //DINOSAURIOS
 
 let boton_rex = document.getElementById("rex");
@@ -591,6 +599,30 @@ let boton_diplocaulus = document.getElementById("diplocaulus");
 if (boton_diplocaulus != null){
     boton_diplocaulus.addEventListener("click", function(){
         window.location.href = "diplocaulus.html"
+    })
+}
+
+let boton_moeder = document.getElementById("moeder");
+
+if (boton_moeder != null){
+    boton_moeder.addEventListener("click", function(){
+        window.location.href = "moeder.html"
+    })
+}
+
+let boton_liopleurodon = document.getElementById("liopleurodon");
+
+if (boton_liopleurodon != null){
+    boton_liopleurodon.addEventListener("click", function(){
+        window.location.href = "liopleurodon.html"
+    })
+}
+
+let boton_tusoteuthis = document.getElementById("tusoteuthis");
+
+if (boton_tusoteuthis != null){
+    boton_tusoteuthis.addEventListener("click", function(){
+        window.location.href = "tusoteuthis.html"
     })
 }
 
