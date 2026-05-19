@@ -160,6 +160,14 @@ if (boton_longino != null){
     })
 }
 
+let boton_leviatan = document.getElementById("leviatan");
+
+if (boton_leviatan != null){
+    boton_leviatan.addEventListener("click", function(){
+        window.location.href = "leviatan.html"
+    })
+}
+
 //DINOSAURIOS
 
 let boton_rex = document.getElementById("rex");
@@ -567,6 +575,22 @@ let boton_mantis_gigante = document.getElementById("mantis_gigante");
 if (boton_mantis_gigante != null){
     boton_mantis_gigante.addEventListener("click", function(){
         window.location.href = "mantis_gigante.html"
+    })
+}
+
+let boton_iguanodon = document.getElementById("iguanodon");
+
+if (boton_iguanodon != null){
+    boton_iguanodon.addEventListener("click", function(){
+        window.location.href = "iguanodon.html"
+    })
+}
+
+let boton_diplocaulus = document.getElementById("diplocaulus");
+
+if (boton_diplocaulus != null){
+    boton_diplocaulus.addEventListener("click", function(){
+        window.location.href = "diplocaulus.html"
     })
 }
 
@@ -1830,6 +1854,30 @@ let boton_artoria = document.getElementById("artoria");
 if (boton_artoria != null){
     boton_artoria.addEventListener("click", function(){
         window.location.href = "artoria.html"
+    })
+}
+
+let boton_george = document.getElementById("george");
+
+if (boton_george != null){
+    boton_george.addEventListener("click", function(){
+        window.location.href = "george.html"
+    })
+}
+
+let boton_iñigo = document.getElementById("iñigo");
+
+if (boton_iñigo != null){
+    boton_iñigo.addEventListener("click", function(){
+        window.location.href = "iñigo.html"
+    })
+}
+
+let boton_pablo = document.getElementById("pablo");
+
+if (boton_pablo != null){
+    boton_pablo.addEventListener("click", function(){
+        window.location.href = "pablo.html"
     })
 }
 
