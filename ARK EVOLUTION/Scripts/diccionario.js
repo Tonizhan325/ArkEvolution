@@ -626,6 +626,38 @@ if (boton_tusoteuthis != null){
     })
 }
 
+let boton_ichthyosaurio = document.getElementById("ichthyosaurio");
+
+if (boton_ichthyosaurio != null){
+    boton_ichthyosaurio.addEventListener("click", function(){
+        window.location.href = "ichthyosaurio.html"
+    })
+}
+
+let boton_anguila_electrica = document.getElementById("anguila_electrica");
+
+if (boton_anguila_electrica != null){
+    boton_anguila_electrica.addEventListener("click", function(){
+        window.location.href = "anguila_electrica.html"
+    })
+}
+
+let boton_cnidaria = document.getElementById("cnidaria");
+
+if (boton_cnidaria != null){
+    boton_cnidaria.addEventListener("click", function(){
+        window.location.href = "cnidaria.html"
+    })
+}
+
+let boton_dunkleosteus = document.getElementById("dunkleosteus");
+
+if (boton_dunkleosteus != null){
+    boton_dunkleosteus.addEventListener("click", function(){
+        window.location.href = "dunkleosteus.html"
+    })
+}
+
 //NIVELES DE PODERES
 
 let boton_niveles_de_poderes_t1 = document.getElementById("niveles_de_poderes_t1");
@@ -747,6 +779,14 @@ let boton_nota = document.getElementById("nota");
 if (boton_nota != null){
     boton_nota.addEventListener("click", function(){
         window.location.href = "nota.html"
+    })
+}
+
+let boton_criopod = document.getElementById("criopod");
+
+if (boton_criopod != null){
+    boton_criopod.addEventListener("click", function(){
+        window.location.href = "criopod.html"
     })
 }
 
@@ -1910,6 +1950,22 @@ let boton_pablo = document.getElementById("pablo");
 if (boton_pablo != null){
     boton_pablo.addEventListener("click", function(){
         window.location.href = "pablo.html"
+    })
+}
+
+let boton_ban = document.getElementById("ban");
+
+if (boton_ban != null){
+    boton_ban.addEventListener("click", function(){
+        window.location.href = "ban.html"
+    })
+}
+
+let boton_finn = document.getElementById("finn");
+
+if (boton_finn != null){
+    boton_finn.addEventListener("click", function(){
+        window.location.href = "finn.html"
     })
 }
 
