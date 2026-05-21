@@ -650,6 +650,22 @@ if (boton_cnidaria != null){
     })
 }
 
+let boton_basilosaurio = document.getElementById("basilosaurio");
+
+if (boton_basilosaurio != null){
+    boton_basilosaurio.addEventListener("click", function(){
+        window.location.href = "basilosaurio.html"
+    })
+}
+
+let boton_manta_raya = document.getElementById("manta_raya");
+
+if (boton_manta_raya != null){
+    boton_manta_raya.addEventListener("click", function(){
+        window.location.href = "manta_raya.html"
+    })
+}
+
 let boton_dunkleosteus = document.getElementById("dunkleosteus");
 
 if (boton_dunkleosteus != null){

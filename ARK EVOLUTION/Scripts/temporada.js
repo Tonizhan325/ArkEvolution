@@ -28,7 +28,7 @@ divTemporada5.addEventListener("click", function(){
     window.location.href = "Temporada 5/index.html";
 })
 
-let botonVolver = document.getElementById("temporadas_volvervisual");
+let botonVolver = document.getElementById("temporadas_volver");
 botonVolver.addEventListener("click", function(){
     window.location.href = "../portada.html";
 })
