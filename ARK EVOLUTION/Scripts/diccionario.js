@@ -674,6 +674,38 @@ if (boton_dunkleosteus != null){
     })
 }
 
+let boton_amonites = document.getElementById("amonites");
+
+if (boton_amonites != null){
+    boton_amonites.addEventListener("click", function(){
+        window.location.href = "amonites.html"
+    })
+}
+
+let boton_trilobita = document.getElementById("trilobita");
+
+if (boton_trilobita != null){
+    boton_trilobita.addEventListener("click", function(){
+        window.location.href = "trilobita.html"
+    })
+}
+
+let boton_eurypterido = document.getElementById("eurypterido");
+
+if (boton_eurypterido != null){
+    boton_eurypterido.addEventListener("click", function(){
+        window.location.href = "eurypterido.html"
+    })
+}
+
+let boton_pez_abisal = document.getElementById("pez_abisal");
+
+if (boton_pez_abisal != null){
+    boton_pez_abisal.addEventListener("click", function(){
+        window.location.href = "pez_abisal.html"
+    })
+}
+
 //NIVELES DE PODERES
 
 let boton_niveles_de_poderes_t1 = document.getElementById("niveles_de_poderes_t1");
@@ -1984,6 +2016,31 @@ if (boton_finn != null){
         window.location.href = "finn.html"
     })
 }
+
+let boton_collei = document.getElementById("collei");
+
+if (boton_collei != null){
+    boton_collei.addEventListener("click", function(){
+        window.location.href = "collei.html"
+    })
+}
+
+let boton_lux = document.getElementById("lux");
+
+if (boton_lux != null){
+    boton_lux.addEventListener("click", function(){
+        window.location.href = "lux.html"
+    })
+}
+
+let boton_max = document.getElementById("max");
+
+if (boton_max != null){
+    boton_max.addEventListener("click", function(){
+        window.location.href = "max.html"
+    })
+}
+
 
 //SISTEMA DE PODER
 
