@@ -706,6 +706,14 @@ if (boton_pez_abisal != null){
     })
 }
 
+let boton_piraña = document.getElementById("piraña");
+
+if (boton_piraña != null){
+    boton_piraña.addEventListener("click", function(){
+        window.location.href = "piraña.html"
+    })
+}
+
 //NIVELES DE PODERES
 
 let boton_niveles_de_poderes_t1 = document.getElementById("niveles_de_poderes_t1");
@@ -2041,6 +2049,14 @@ if (boton_max != null){
     })
 }
 
+let boton_rengar = document.getElementById("rengar");
+
+if (boton_rengar != null){
+    boton_rengar.addEventListener("click", function(){
+        window.location.href = "rengar.html"
+    })
+}
+
 
 //SISTEMA DE PODER
 
@@ -2217,6 +2233,14 @@ let boton_sarcocuchus_armadura = document.getElementById("sarcocuchus_armadura")
 if (boton_sarcocuchus_armadura != null){
     boton_sarcocuchus_armadura.addEventListener("click", function(){
         window.location.href = "sarcocuchus.html"
+    })
+}
+
+let boton_piraña_armadura = document.getElementById("piraña_armadura");
+
+if (boton_piraña_armadura != null){
+    boton_piraña_armadura.addEventListener("click", function(){
+        window.location.href = "piraña.html"
     })
 }
 
