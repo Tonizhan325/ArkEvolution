@@ -2057,6 +2057,45 @@ if (boton_rengar != null){
     })
 }
 
+let boton_sergio = document.getElementById("sergio");
+
+if (boton_sergio != null){
+    boton_sergio.addEventListener("click", function(){
+        window.location.href = "sergio.html"
+    })
+}
+
+let boton_irene = document.getElementById("irene");
+
+if (boton_irene != null){
+    boton_irene.addEventListener("click", function(){
+        window.location.href = "irene.html"
+    })
+}
+
+let boton_keyra = document.getElementById("keyra");
+
+if (boton_keyra != null){
+    boton_keyra.addEventListener("click", function(){
+        window.location.href = "keyra.html"
+    })
+}
+
+let boton_nicole = document.getElementById("nicole");
+
+if (boton_nicole != null){
+    boton_nicole.addEventListener("click", function(){
+        window.location.href = "nicole.html"
+    })
+}
+
+let boton_javi = document.getElementById("javi");
+
+if (boton_javi != null){
+    boton_javi.addEventListener("click", function(){
+        window.location.href = "javi.html"
+    })
+}
 
 //SISTEMA DE PODER
 
