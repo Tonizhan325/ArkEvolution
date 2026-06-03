@@ -714,6 +714,22 @@ if (boton_piraña != null){
     })
 }
 
+let boton_brontosaurio = document.getElementById("brontosaurio");
+
+if (boton_brontosaurio != null){
+    boton_brontosaurio.addEventListener("click", function(){
+        window.location.href = "brontosaurio.html"
+    })
+}
+
+let boton_deinonico = document.getElementById("deinonico");
+
+if (boton_deinonico != null){
+    boton_deinonico.addEventListener("click", function(){
+        window.location.href = "deinonico.html"
+    })
+}
+
 //NIVELES DE PODERES
 
 let boton_niveles_de_poderes_t1 = document.getElementById("niveles_de_poderes_t1");
