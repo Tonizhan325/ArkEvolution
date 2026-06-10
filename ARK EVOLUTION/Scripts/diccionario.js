@@ -730,6 +730,30 @@ if (boton_deinonico != null){
     })
 }
 
+let boton_tapejara = document.getElementById("tapejara");
+
+if (boton_tapejara != null){
+    boton_tapejara.addEventListener("click", function(){
+        window.location.href = "tapejara.html"
+    })
+}
+
+let boton_therizino = document.getElementById("therizino");
+
+if (boton_therizino != null){
+    boton_therizino.addEventListener("click", function(){
+        window.location.href = "therizino.html"
+    })
+}
+
+let boton_kentrosaurio = document.getElementById("kentrosaurio");
+
+if (boton_kentrosaurio != null){
+    boton_kentrosaurio.addEventListener("click", function(){
+        window.location.href = "kentrosaurio.html"
+    })
+}
+
 //NIVELES DE PODERES
 
 let boton_niveles_de_poderes_t1 = document.getElementById("niveles_de_poderes_t1");
@@ -2299,6 +2323,14 @@ if (boton_piraña_armadura != null){
     })
 }
 
+let boton_kentrosaurio_armadura = document.getElementById("kentrosaurio_armadura");
+
+if (boton_kentrosaurio_armadura != null){
+    boton_kentrosaurio_armadura.addEventListener("click", function(){
+        window.location.href = "kentrosaurio.html"
+    })
+}
+
 let boton_fuego = document.getElementById("fuego");
 
 if (boton_fuego != null){
@@ -2434,6 +2466,15 @@ if (boton_viento != null){
         window.location.href = "viento.html"
     })
 }
+
+let boton_sombra = document.getElementById("sombra");
+
+if (boton_sombra != null){
+    boton_sombra.addEventListener("click", function(){
+        window.location.href = "sombra.html"
+    })
+}
+
 
 let boton_magia = document.getElementById("magia");
 
