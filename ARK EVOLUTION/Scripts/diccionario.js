@@ -754,6 +754,23 @@ if (boton_kentrosaurio != null){
     })
 }
 
+
+let boton_microraptor = document.getElementById("microraptor");
+
+if (boton_microraptor != null){
+    boton_microraptor.addEventListener("click", function(){
+        window.location.href = "microraptor.html"
+    })
+}
+
+let boton_dimorphodon = document.getElementById("dimorphodon");
+
+if (boton_dimorphodon != null){
+    boton_dimorphodon.addEventListener("click", function(){
+        window.location.href = "dimorphodon.html"
+    })
+}
+
 //NIVELES DE PODERES
 
 let boton_niveles_de_poderes_t1 = document.getElementById("niveles_de_poderes_t1");
