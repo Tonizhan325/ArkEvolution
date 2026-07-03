@@ -771,6 +771,46 @@ if (boton_dimorphodon != null){
     })
 }
 
+let boton_pulmonoscorpius = document.getElementById("pulmonoscorpius");
+
+if (boton_pulmonoscorpius != null){
+    boton_pulmonoscorpius.addEventListener("click", function(){
+        window.location.href = "pulmonoscorpius.html"
+    })
+}
+
+let boton_arthropleura = document.getElementById("arthropleura");
+
+if (boton_arthropleura != null){
+    boton_arthropleura.addEventListener("click", function(){
+        window.location.href = "arthropleura.html"
+    })
+}
+
+let boton_meganeura = document.getElementById("meganeura");
+
+if (boton_meganeura != null){
+    boton_meganeura.addEventListener("click", function(){
+        window.location.href = "meganeura.html"
+    })
+}
+
+let boton_titanomyrma = document.getElementById("titanomyrma");
+
+if (boton_titanomyrma != null){
+    boton_titanomyrma.addEventListener("click", function(){
+        window.location.href = "titanomyrma.html"
+    })
+}
+
+let boton_escarabajo_pelotero = document.getElementById("escarabajo_pelotero");
+
+if (boton_escarabajo_pelotero != null){
+    boton_escarabajo_pelotero.addEventListener("click", function(){
+        window.location.href = "escarabajo_pelotero.html"
+    })
+}
+
 //NIVELES DE PODERES
 
 let boton_niveles_de_poderes_t1 = document.getElementById("niveles_de_poderes_t1");
@@ -2151,6 +2191,14 @@ let boton_javi = document.getElementById("javi");
 if (boton_javi != null){
     boton_javi.addEventListener("click", function(){
         window.location.href = "javi.html"
+    })
+}
+
+let boton_xeno = document.getElementById("xeno");
+
+if (boton_xeno != null){
+    boton_xeno.addEventListener("click", function(){
+        window.location.href = "xeno.html"
     })
 }
 
