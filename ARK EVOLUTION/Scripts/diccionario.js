@@ -2202,6 +2202,14 @@ if (boton_xeno != null){
     })
 }
 
+let boton_loki = document.getElementById("loki");
+
+if (boton_loki != null){
+    boton_loki.addEventListener("click", function(){
+        window.location.href = "loki.html"
+    })
+}
+
 //SISTEMA DE PODER
 
 let boton_energia_ambiental = document.getElementById("energia_ambiental");
