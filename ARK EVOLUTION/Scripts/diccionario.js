@@ -2210,6 +2210,30 @@ if (boton_loki != null){
     })
 }
 
+let boton_frey = document.getElementById("frey");
+
+if (boton_frey != null){
+    boton_frey.addEventListener("click", function(){
+        window.location.href = "frey.html"
+    })
+}
+
+let boton_freya = document.getElementById("freya");
+
+if (boton_freya != null){
+    boton_freya.addEventListener("click", function(){
+        window.location.href = "freya.html"
+    })
+}
+
+let boton_odin = document.getElementById("odin");
+
+if (boton_odin != null){
+    boton_odin.addEventListener("click", function(){
+        window.location.href = "odin.html"
+    })
+}
+
 //SISTEMA DE PODER
 
 let boton_energia_ambiental = document.getElementById("energia_ambiental");
