@@ -28,6 +28,12 @@ divTemporada5.addEventListener("click", function(){
     window.location.href = "Temporada 5/index.html";
 })
 
+let divTemporada6 = document.getElementById("temporada6");
+
+divTemporada6.addEventListener("click", function(){
+    window.location.href = "Temporada 6/index.html";
+})
+
 let botonVolver = document.getElementById("temporadas_volver");
 botonVolver.addEventListener("click", function(){
     window.location.href = "../portada.html";

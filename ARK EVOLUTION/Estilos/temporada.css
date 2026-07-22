@@ -68,13 +68,17 @@ button {
 }
 
 #temporada3{
-    background-color: red;
+    background-color: purple;
 }
 
 #temporada4{
     background-color: yellow;
 }
 
-#temporada5{
+#temporada5 {
     background-color: brown;
+}
+
+#temporada6{
+    background-color: red;
 }
