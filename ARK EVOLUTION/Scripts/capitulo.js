@@ -969,3 +969,494 @@ if (temporada5_epilogo != null) {
         window.location.href = "t5_epilogo.html";
     });
 }
+
+// TEMPORADA 6
+
+let temporada6_prologo = document.getElementById("t6_prologo");
+if (temporada6_prologo != null) {
+    temporada6_prologo.addEventListener("click", function () {
+        window.location.href = "t6_prologo.html";
+    });
+}
+
+let temporada6_capitulo1 = document.getElementById("t6_capitulo1");
+if (temporada6_capitulo1 != null) {
+    temporada6_capitulo1.addEventListener("click", function () {
+        window.location.href = "t6_1.html";
+    });
+}
+
+let temporada6_capitulo2 = document.getElementById("t6_capitulo2");
+if (temporada6_capitulo2 != null) {
+    temporada46_capitulo2.addEventListener("click", function () {
+        window.location.href = "t6_2.html";
+    });
+}
+
+let temporada6_capitulo3 = document.getElementById("t6_capitulo3");
+if (temporada6_capitulo3 != null) {
+    temporada6_capitulo3.addEventListener("click", function () {
+        window.location.href = "t6_3.html";
+    });
+}
+
+let temporada6_capitulo4 = document.getElementById("t6_capitulo4");
+if (temporada6_capitulo4 != null) {
+    temporada6_capitulo4.addEventListener("click", function () {
+        window.location.href = "t6_4.html";
+    });
+}
+
+let temporada6_capitulo5 = document.getElementById("t6_capitulo5");
+if (temporada6_capitulo5 != null) {
+    temporada6_capitulo5.addEventListener("click", function () {
+        window.location.href = "t6_5.html";
+    });
+}
+
+let temporada6_capitulo6 = document.getElementById("t6_capitulo6");
+if (temporada6_capitulo6 != null) {
+    temporada6_capitulo6.addEventListener("click", function () {
+        window.location.href = "t6_6.html";
+    });
+}
+
+let temporada6_capitulo7 = document.getElementById("t6_capitulo7");
+if (temporada6_capitulo7 != null) {
+    temporada6_capitulo7.addEventListener("click", function () {
+        window.location.href = "t6_7.html";
+    });
+}
+
+let temporada6_capitulo8 = document.getElementById("t6_capitulo8");
+if (temporada6_capitulo8 != null) {
+    temporada6_capitulo8.addEventListener("click", function () {
+        window.location.href = "t6_8.html";
+    });
+}
+
+let temporada6_capitulo9 = document.getElementById("t6_capitulo9");
+if (temporada6_capitulo9 != null) {
+    temporada6_capitulo9.addEventListener("click", function () {
+        window.location.href = "t6_9.html";
+    });
+}
+
+let temporada6_capitulo10 = document.getElementById("t6_capitulo10");
+if (temporada6_capitulo10 != null) {
+    temporada6_capitulo10.addEventListener("click", function () {
+        window.location.href = "t6_10.html";
+    });
+}
+
+let temporada6_capitulo11 = document.getElementById("t6_capitulo11");
+if (temporada6_capitulo11 != null) {
+    temporada6_capitulo11.addEventListener("click", function () {
+        window.location.href = "t6_11.html";
+    });
+}
+
+let temporada6_capitulo12 = document.getElementById("t6_capitulo12");
+if (temporada6_capitulo12 != null) {
+    temporada6_capitulo12.addEventListener("click", function () {
+        window.location.href = "t6_12.html";
+    });
+}
+
+let temporada6_capitulo13 = document.getElementById("t6_capitulo13");
+if (temporada6_capitulo13 != null) {
+    temporada6_capitulo13.addEventListener("click", function () {
+        window.location.href = "t6_13.html";
+    });
+}
+
+let temporada6_capitulo14 = document.getElementById("t6_capitulo14");
+if (temporada6_capitulo14 != null) {
+    temporada6_capitulo14.addEventListener("click", function () {
+        window.location.href = "t6_14.html";
+    });
+}
+
+let temporada6_capitulo15 = document.getElementById("t6_capitulo15");
+if (temporada6_capitulo15 != null) {
+    temporada6_capitulo15.addEventListener("click", function () {
+        window.location.href = "t6_15.html";
+    });
+}
+
+let temporada6_capitulo16 = document.getElementById("t6_capitulo16");
+if (temporada6_capitulo16 != null) {
+    temporada6_capitulo16.addEventListener("click", function () {
+        window.location.href = "t6_16.html";
+    });
+}
+
+let temporada6_capitulo17 = document.getElementById("t6_capitulo17");
+if (temporada6_capitulo17 != null) {
+    temporada6_capitulo17.addEventListener("click", function () {
+        window.location.href = "t6_17.html";
+    });
+}
+
+let temporada6_capitulo18 = document.getElementById("t6_capitulo18");
+if (temporada6_capitulo18 != null) {
+    temporada6_capitulo18.addEventListener("click", function () {
+        window.location.href = "t6_18.html";
+    });
+}
+
+let temporada6_capitulo19 = document.getElementById("t6_capitulo19");
+if (temporada6_capitulo19 != null) {
+    temporada6_capitulo19.addEventListener("click", function () {
+        window.location.href = "t6_19.html";
+    });
+}
+
+let temporada6_capitulo20 = document.getElementById("t6_capitulo20");
+if (temporada6_capitulo20 != null) {
+    temporada6_capitulo20.addEventListener("click", function () {
+        window.location.href = "t6_20.html";
+    });
+}
+
+let temporada6_capitulo21 = document.getElementById("t6_capitulo21");
+if (temporada6_capitulo21 != null) {
+    temporada6_capitulo21.addEventListener("click", function () {
+        window.location.href = "t6_21.html";
+    });
+}
+
+let temporada6_capitulo22 = document.getElementById("t6_capitulo22");
+if (temporada6_capitulo22 != null) {
+    temporada6_capitulo22.addEventListener("click", function () {
+        window.location.href = "t6_22.html";
+    });
+}
+
+let temporada6_capitulo23 = document.getElementById("t6_capitulo23");
+if (temporada6_capitulo23 != null) {
+    temporada6_capitulo23.addEventListener("click", function () {
+        window.location.href = "t6_23.html";
+    });
+}
+
+let temporada6_capitulo24 = document.getElementById("t6_capitulo24");
+if (temporada6_capitulo24 != null) {
+    temporada6_capitulo24.addEventListener("click", function () {
+        window.location.href = "t6_24.html";
+    });
+}
+
+let temporada6_capitulo25 = document.getElementById("t6_capitulo25");
+if (temporada6_capitulo25 != null) {
+    temporada6_capitulo25.addEventListener("click", function () {
+        window.location.href = "t6_25.html";
+    });
+}
+
+let temporada6_capitulo26 = document.getElementById("t6_capitulo26");
+if (temporada6_capitulo26 != null) {
+    temporada6_capitulo26.addEventListener("click", function () {
+        window.location.href = "t6_26.html";
+    });
+}
+
+let temporada6_capitulo27 = document.getElementById("t6_capitulo27");
+if (temporada6_capitulo27 != null) {
+    temporada6_capitulo27.addEventListener("click", function () {
+        window.location.href = "t6_27.html";
+    });
+}
+
+let temporada6_capitulo28 = document.getElementById("t6_capitulo28");
+if (temporada6_capitulo28 != null) {
+    temporada6_capitulo28.addEventListener("click", function () {
+        window.location.href = "t6_28.html";
+    });
+}
+
+let temporada6_capitulo29 = document.getElementById("t6_capitulo29");
+if (temporada6_capitulo29 != null) {
+    temporada6_capitulo29.addEventListener("click", function () {
+        window.location.href = "t6_29.html";
+    });
+}
+
+let temporada6_capitulo30 = document.getElementById("t6_capitulo30");
+if (temporada6_capitulo30 != null) {
+    temporada6_capitulo30.addEventListener("click", function () {
+        window.location.href = "t6_30.html";
+    });
+}
+
+let temporada6_capitulo31 = document.getElementById("t6_capitulo31");
+if (temporada6_capitulo31 != null) {
+    temporada6_capitulo31.addEventListener("click", function () {
+        window.location.href = "t6_31.html";
+    });
+}
+
+let temporada6_capitulo32 = document.getElementById("t6_capitulo32");
+if (temporada6_capitulo32 != null) {
+    temporada6_capitulo32.addEventListener("click", function () {
+        window.location.href = "t6_32.html";
+    });
+}
+
+let temporada6_capitulo33 = document.getElementById("t6_capitulo33");
+if (temporada6_capitulo33 != null) {
+    temporada6_capitulo33.addEventListener("click", function () {
+        window.location.href = "t6_33.html";
+    });
+}
+
+let temporada6_capitulo34 = document.getElementById("t6_capitulo34");
+if (temporada6_capitulo34 != null) {
+    temporada6_capitulo34.addEventListener("click", function () {
+        window.location.href = "t6_34.html";
+    });
+}
+
+let temporada6_capitulo35 = document.getElementById("t6_capitulo35");
+if (temporada6_capitulo35 != null) {
+    temporada6_capitulo35.addEventListener("click", function () {
+        window.location.href = "t6_35.html";
+    });
+}
+
+let temporada6_capitulo36 = document.getElementById("t6_capitulo36");
+if (temporada6_capitulo36 != null) {
+    temporada6_capitulo36.addEventListener("click", function () {
+        window.location.href = "t6_36.html";
+    });
+}
+
+let temporada6_capitulo37 = document.getElementById("t6_capitulo37");
+if (temporada6_capitulo37 != null) {
+    temporada6_capitulo37.addEventListener("click", function () {
+        window.location.href = "t6_37.html";
+    });
+}
+
+let temporada6_capitulo38 = document.getElementById("t6_capitulo38");
+if (temporada6_capitulo38 != null) {
+    temporada6_capitulo38.addEventListener("click", function () {
+        window.location.href = "t6_38.html";
+    });
+}
+
+let temporada6_capitulo39 = document.getElementById("t6_capitulo39");
+if (temporada6_capitulo39 != null) {
+    temporada6_capitulo39.addEventListener("click", function () {
+        window.location.href = "t6_39.html";
+    });
+}
+
+let temporada6_capitulo40 = document.getElementById("t6_capitulo40");
+if (temporada6_capitulo40 != null) {
+    temporada6_capitulo40.addEventListener("click", function () {
+        window.location.href = "t6_40.html";
+    });
+}
+
+let temporada6_capitulo41 = document.getElementById("t6_capitulo41");
+if (temporada6_capitulo41 != null) {
+    temporada6_capitulo41.addEventListener("click", function () {
+        window.location.href = "t6_41.html";
+    });
+}
+
+let temporada6_capitulo42 = document.getElementById("t6_capitulo42");
+if (temporada6_capitulo42 != null) {
+    temporada6_capitulo42.addEventListener("click", function () {
+        window.location.href = "t6_42.html";
+    });
+}
+
+let temporada6_capitulo43 = document.getElementById("t6_capitulo43");
+if (temporada6_capitulo43 != null) {
+    temporada6_capitulo43.addEventListener("click", function () {
+        window.location.href = "t6_43.html";
+    });
+}
+
+let temporada6_capitulo44 = document.getElementById("t6_capitulo44");
+if (temporada6_capitulo44 != null) {
+    temporada6_capitulo44.addEventListener("click", function () {
+        window.location.href = "t6_44.html";
+    });
+}
+
+let temporada6_capitulo45 = document.getElementById("t6_capitulo45");
+if (temporada6_capitulo45 != null) {
+    temporada6_capitulo45.addEventListener("click", function () {
+        window.location.href = "t6_45.html";
+    });
+}
+
+let temporada6_capitulo46 = document.getElementById("t6_capitulo46");
+if (temporada6_capitulo46 != null) {
+    temporada6_capitulo46.addEventListener("click", function () {
+        window.location.href = "t6_46.html";
+    });
+}
+
+let temporada6_capitulo47 = document.getElementById("t6_capitulo47");
+if (temporada6_capitulo47 != null) {
+    temporada6_capitulo47.addEventListener("click", function () {
+        window.location.href = "t6_47.html";
+    });
+}
+
+let temporada6_capitulo48 = document.getElementById("t6_capitulo48");
+if (temporada6_capitulo48 != null) {
+    temporada6_capitulo48.addEventListener("click", function () {
+        window.location.href = "t6_48.html";
+    });
+}
+
+let temporada6_capitulo49 = document.getElementById("t6_capitulo49");
+if (temporada6_capitulo49 != null) {
+    temporada6_capitulo49.addEventListener("click", function () {
+        window.location.href = "t6_49.html";
+    });
+}
+let temporada6_capitulo50 = document.getElementById("t6_capitulo50");
+if (temporada6_capitulo50 != null) {
+    temporada6_capitulo50.addEventListener("click", function () {
+        window.location.href = "t6_50.html";
+    });
+}
+
+let temporada6_capitulo51 = document.getElementById("t6_capitulo51");
+if (temporada6_capitulo51 != null) {
+    temporada6_capitulo51.addEventListener("click", function () {
+        window.location.href = "t6_51.html";
+    });
+}
+
+let temporada6_capitulo52 = document.getElementById("t6_capitulo52");
+if (temporada6_capitulo52 != null) {
+    temporada6_capitulo52.addEventListener("click", function () {
+        window.location.href = "t6_52.html";
+    });
+}
+
+let temporada6_capitulo53 = document.getElementById("t6_capitulo53");
+if (temporada6_capitulo53 != null) {
+    temporada6_capitulo53.addEventListener("click", function () {
+        window.location.href = "t6_53.html";
+    });
+}
+
+let temporada6_capitulo54 = document.getElementById("t6_capitulo54");
+if (temporada6_capitulo54 != null) {
+    temporada6_capitulo54.addEventListener("click", function () {
+        window.location.href = "t6_54.html";
+    });
+}
+
+let temporada6_capitulo55 = document.getElementById("t6_capitulo55");
+if (temporada6_capitulo55 != null) {
+    temporada6_capitulo55.addEventListener("click", function () {
+        window.location.href = "t6_55.html";
+    });
+}
+
+let temporada6_capitulo56 = document.getElementById("t6_capitulo56");
+if (temporada6_capitulo56 != null) {
+    temporada6_capitulo56.addEventListener("click", function () {
+        window.location.href = "t6_56.html";
+    });
+}
+
+let temporada6_capitulo57 = document.getElementById("t6_capitulo57");
+if (temporada6_capitulo57 != null) {
+    temporada6_capitulo57.addEventListener("click", function () {
+        window.location.href = "t6_57.html";
+    });
+}
+
+let temporada6_capitulo58 = document.getElementById("t6_capitulo58");
+if (temporada6_capitulo58 != null) {
+    temporada6_capitulo58.addEventListener("click", function () {
+        window.location.href = "t6_58.html";
+    });
+}
+
+let temporada6_capitulo59 = document.getElementById("t6_capitulo59");
+if (temporada6_capitulo59 != null) {
+    temporada6_capitulo59.addEventListener("click", function () {
+        window.location.href = "t6_59.html";
+    });
+}
+
+let temporada6_capitulo60 = document.getElementById("t6_capitulo60");
+if (temporada6_capitulo60 != null) {
+    temporada6_capitulo60.addEventListener("click", function () {
+        window.location.href = "t6_60.html";
+    });
+}
+
+let temporada6_capitulo61 = document.getElementById("t6_capitulo61");
+if (temporada6_capitulo61 != null) {
+    temporada6_capitulo61.addEventListener("click", function () {
+        window.location.href = "t6_61.html";
+    });
+}
+
+let temporada6_capitulo62 = document.getElementById("t6_capitulo62");
+if (temporada6_capitulo62 != null) {
+    temporada6_capitulo62.addEventListener("click", function () {
+        window.location.href = "t6_62.html";
+    });
+}
+
+let temporada6_capitulo63 = document.getElementById("t6_capitulo63");
+if (temporada6_capitulo63 != null) {
+    temporada6_capitulo63.addEventListener("click", function () {
+        window.location.href = "t6_63.html";
+    });
+}
+
+let temporada6_capitulo64 = document.getElementById("t6_capitulo64");
+if (temporada6_capitulo64 != null) {
+    temporada6_capitulo64.addEventListener("click", function () {
+        window.location.href = "t6_64.html";
+    });
+}
+
+let temporada6_capitulo65 = document.getElementById("t6_capitulo65");
+if (temporada6_capitulo65 != null) {
+    temporada6_capitulo65.addEventListener("click", function () {
+        window.location.href = "t6_65.html";
+    });
+}
+
+let temporada6_capitulo66 = document.getElementById("t6_capitulo66");
+if (temporada6_capitulo66 != null) {
+    temporada6_capitulo66.addEventListener("click", function () {
+        window.location.href = "t6_66.html";
+    });
+}
+
+let temporada6_capitulo67 = document.getElementById("t6_capitulo67");
+if (temporada6_capitulo67 != null) {
+    temporada6_capitulo67.addEventListener("click", function () {
+        window.location.href = "t6_67.html";
+    });
+}
+
+let temporada6_capitulo68 = document.getElementById("t6_capitulo68");
+if (temporada6_capitulo68 != null) {
+    temporada6_capitulo68.addEventListener("click", function () {
+        window.location.href = "t6_68.html";
+    });
+}
+
+let temporada6_epilogo = document.getElementById("t6_epilogo");
+if (temporada6_epilogo != null) {
+    temporada6_epilogo.addEventListener("click", function () {
+        window.location.href = "t6_epilogo.html";
+    });
+}
