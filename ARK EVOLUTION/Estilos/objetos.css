@@ -1,5 +1,5 @@
-#divBoton{
-    text-align: center;
+body{
+    background-color: gray;
 }
 
 #titulo{
@@ -23,6 +23,7 @@
     text-align: center;
     align-content: center;
     font-size: 5vh;
+    border: 2px solid black;
 }
 
 #imagen{
@@ -30,6 +31,7 @@
     height: 60vh;
     align-content: center;
     margin: 0 auto;
+    border: 2px solid black;
 }
 
 #informacion{
@@ -39,4 +41,20 @@
     align-content: center;
     font-size: 2vh;
     border: solid 2px black;
+}
+
+p:first-child{
+    font-weight: bold;
+}
+
+#divBoton{
+    text-align: center;
+}
+
+#diccionario_volver_interior_interior{
+    background-color: lightgray;
+    margin-top: 5%;
+    width: 20%;
+    height: 10vh;
+    font-size: 5vh;
 }

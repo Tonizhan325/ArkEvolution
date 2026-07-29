@@ -2188,4 +2188,1130 @@ if (boton_siguiente_t5_epilogo != null){
     })
 }
 
+let boton_anterior_t6_prologo = document.getElementById("boton_anterior_t6_prologo");
 
+if (boton_anterior_t6_prologo != null){
+    boton_anterior_t6_prologo.addEventListener("click", function(){
+        window.location.href = "../Temporada 5/t5_epilogo.html";
+    })
+}
+
+let boton_siguiente_t6_prologo = document.getElementById("boton_siguiente_t6_prologo");
+
+if (boton_siguiente_t6_prologo != null){
+    boton_siguiente_t6_prologo.addEventListener("click", function(){
+        window.location.href = "t6_1.html";
+    })
+}
+
+let boton_anterior_t6_1 = document.getElementById("boton_anterior_t6_1");
+
+if (boton_anterior_t6_1 != null){
+    boton_anterior_t6_1.addEventListener("click", function(){
+        window.location.href = "t6_prologo.html";
+    })
+}
+
+let boton_siguiente_t6_1 = document.getElementById("boton_siguiente_t6_1");
+
+if (boton_siguiente_t6_1 != null){
+    boton_siguiente_t6_1.addEventListener("click", function(){
+        window.location.href = "t6_2.html";
+    })
+}
+
+let boton_anterior_t6_2 = document.getElementById("boton_anterior_t6_2");
+
+if (boton_anterior_t6_2 != null){
+    boton_anterior_t6_2.addEventListener("click", function(){
+        window.location.href = "t6_1.html";
+    })
+}
+
+let boton_siguiente_t6_2 = document.getElementById("boton_siguiente_t6_2");
+
+if (boton_siguiente_t6_2 != null){
+    boton_siguiente_t6_2.addEventListener("click", function(){
+        window.location.href = "t6_3.html";
+    })
+}
+
+let boton_anterior_t6_3 = document.getElementById("boton_anterior_t6_3");
+
+if (boton_anterior_t6_3 != null){
+    boton_anterior_t6_3.addEventListener("click", function(){
+        window.location.href = "t6_2.html";
+    })
+}
+
+let boton_siguiente_t6_3 = document.getElementById("boton_siguiente_t6_3");
+
+if (boton_siguiente_t6_3 != null){
+    boton_siguiente_t6_3.addEventListener("click", function(){
+        window.location.href = "t6_4.html";
+    })
+}
+
+let boton_anterior_t6_4 = document.getElementById("boton_anterior_t6_4");
+
+if (boton_anterior_t6_4 != null){
+    boton_anterior_t6_4.addEventListener("click", function(){
+        window.location.href = "t6_3.html";
+    })
+}
+
+let boton_siguiente_t6_4 = document.getElementById("boton_siguiente_t6_4");
+
+if (boton_siguiente_t6_4 != null){
+    boton_siguiente_t6_4.addEventListener("click", function(){
+        window.location.href = "t6_5.html";
+    })
+}
+
+let boton_anterior_t6_5 = document.getElementById("boton_anterior_t6_5");
+
+if (boton_anterior_t6_5 != null){
+    boton_anterior_t6_5.addEventListener("click", function(){
+        window.location.href = "t6_4.html";
+    })
+}
+
+let boton_siguiente_t6_5 = document.getElementById("boton_siguiente_t6_5");
+
+if (boton_siguiente_t6_5 != null){
+    boton_siguiente_t6_5.addEventListener("click", function(){
+        window.location.href = "t6_6.html";
+    })
+}
+
+let boton_anterior_t6_6 = document.getElementById("boton_anterior_t6_6");
+
+if (boton_anterior_t6_6 != null){
+    boton_anterior_t6_6.addEventListener("click", function(){
+        window.location.href = "t6_5.html";
+    })
+}
+
+let boton_siguiente_t6_6 = document.getElementById("boton_siguiente_t6_6");
+
+if (boton_siguiente_t6_6 != null){
+    boton_siguiente_t6_6.addEventListener("click", function(){
+        window.location.href = "t6_7.html";
+    })
+}
+
+let boton_anterior_t6_7 = document.getElementById("boton_anterior_t6_7");
+
+if (boton_anterior_t6_7 != null){
+    boton_anterior_t6_7.addEventListener("click", function(){
+        window.location.href = "t6_6.html";
+    })
+}
+
+let boton_siguiente_t6_7 = document.getElementById("boton_siguiente_t6_7");
+
+if (boton_siguiente_t6_7 != null){
+    boton_siguiente_t6_7.addEventListener("click", function(){
+        window.location.href = "t6_8.html";
+    })
+}
+
+let boton_anterior_t6_8 = document.getElementById("boton_anterior_t6_8");
+
+if (boton_anterior_t6_8 != null){
+    boton_anterior_t6_8.addEventListener("click", function(){
+        window.location.href = "t6_7.html";
+    })
+}
+
+let boton_siguiente_t6_8 = document.getElementById("boton_siguiente_t6_8");
+
+if (boton_siguiente_t6_8 != null){
+    boton_siguiente_t6_8.addEventListener("click", function(){
+        window.location.href = "t6_9.html";
+    })
+}
+
+let boton_anterior_t6_9 = document.getElementById("boton_anterior_t6_9");
+
+if (boton_anterior_t6_9 != null){
+    boton_anterior_t6_9.addEventListener("click", function(){
+        window.location.href = "t6_8.html";
+    })
+}
+
+let boton_siguiente_t6_9 = document.getElementById("boton_siguiente_t6_9");
+
+if (boton_siguiente_t6_9 != null){
+    boton_siguiente_t6_9.addEventListener("click", function(){
+        window.location.href = "t6_10.html";
+    })
+}
+
+let boton_anterior_t6_10 = document.getElementById("boton_anterior_t6_10");
+
+if (boton_anterior_t6_10 != null){
+    boton_anterior_t6_10.addEventListener("click", function(){
+        window.location.href = "t6_9.html";
+    })
+}
+
+let boton_siguiente_t6_10 = document.getElementById("boton_siguiente_t6_10");
+
+if (boton_siguiente_t6_10 != null){
+    boton_siguiente_t6_10.addEventListener("click", function(){
+        window.location.href = "t6_11.html";
+    })
+}
+
+let boton_anterior_t6_11 = document.getElementById("boton_anterior_t6_11");
+
+if (boton_anterior_t6_11 != null){
+    boton_anterior_t6_11.addEventListener("click", function(){
+        window.location.href = "t6_10.html";
+    })
+}
+
+let boton_siguiente_t6_11 = document.getElementById("boton_siguiente_t6_11");
+
+if (boton_siguiente_t6_11 != null){
+    boton_siguiente_t6_11.addEventListener("click", function(){
+        window.location.href = "t6_12.html";
+    })
+}
+
+let boton_anterior_t6_12 = document.getElementById("boton_anterior_t6_12");
+
+if (boton_anterior_t6_12 != null){
+    boton_anterior_t6_12.addEventListener("click", function(){
+        window.location.href = "t6_11.html";
+    })
+}
+
+let boton_siguiente_t6_12 = document.getElementById("boton_siguiente_t6_12");
+
+if (boton_siguiente_t6_12 != null){
+    boton_siguiente_t6_12.addEventListener("click", function(){
+        window.location.href = "t6_13.html";
+    })
+}
+
+let boton_anterior_t6_13 = document.getElementById("boton_anterior_t6_13");
+
+if (boton_anterior_t6_13 != null){
+    boton_anterior_t6_13.addEventListener("click", function(){
+        window.location.href = "t6_12.html";
+    })
+}
+
+let boton_siguiente_t6_13 = document.getElementById("boton_siguiente_t6_13");
+
+if (boton_siguiente_t6_13 != null){
+    boton_siguiente_t6_13.addEventListener("click", function(){
+        window.location.href = "t6_14.html";
+    })
+}
+
+let boton_anterior_t6_14 = document.getElementById("boton_anterior_t6_14");
+
+if (boton_anterior_t6_14 != null){
+    boton_anterior_t6_14.addEventListener("click", function(){
+        window.location.href = "t6_13.html";
+    })
+}
+
+let boton_siguiente_t6_14 = document.getElementById("boton_siguiente_t6_14");
+
+if (boton_siguiente_t6_14 != null){
+    boton_siguiente_t6_14.addEventListener("click", function(){
+        window.location.href = "t6_15.html";
+    })
+}
+
+let boton_anterior_t6_15 = document.getElementById("boton_anterior_t6_15");
+
+if (boton_anterior_t6_15 != null){
+    boton_anterior_t6_15.addEventListener("click", function(){
+        window.location.href = "t6_14.html";
+    })
+}
+
+let boton_siguiente_t6_15 = document.getElementById("boton_siguiente_t6_15");
+
+if (boton_siguiente_t6_15 != null){
+    boton_siguiente_t6_15.addEventListener("click", function(){
+        window.location.href = "t6_16.html";
+    })
+}
+
+let boton_anterior_t6_16 = document.getElementById("boton_anterior_t6_16");
+
+if (boton_anterior_t6_16 != null){
+    boton_anterior_t6_16.addEventListener("click", function(){
+        window.location.href = "t6_15.html";
+    })
+}
+
+let boton_siguiente_t6_16 = document.getElementById("boton_siguiente_t6_16");
+
+if (boton_siguiente_t6_16 != null){
+    boton_siguiente_t6_16.addEventListener("click", function(){
+        window.location.href = "t6_17.html";
+    })
+}
+
+let boton_anterior_t6_17 = document.getElementById("boton_anterior_t6_17");
+
+if (boton_anterior_t6_17 != null){
+    boton_anterior_t6_17.addEventListener("click", function(){
+        window.location.href = "t6_16.html";
+    })
+}
+
+let boton_siguiente_t6_17 = document.getElementById("boton_siguiente_t6_17");
+
+if (boton_siguiente_t6_17 != null){
+    boton_siguiente_t6_17.addEventListener("click", function(){
+        window.location.href = "t6_18.html";
+    })
+}
+
+let boton_anterior_t6_18 = document.getElementById("boton_anterior_t6_18");
+
+if (boton_anterior_t6_18 != null){
+    boton_anterior_t6_18.addEventListener("click", function(){
+        window.location.href = "t6_17.html";
+    })
+}
+
+let boton_siguiente_t6_18 = document.getElementById("boton_siguiente_t6_18");
+
+if (boton_siguiente_t6_18 != null){
+    boton_siguiente_t6_18.addEventListener("click", function(){
+        window.location.href = "t6_19.html";
+    })
+}
+
+let boton_anterior_t6_19 = document.getElementById("boton_anterior_t6_19");
+
+if (boton_anterior_t6_19 != null){
+    boton_anterior_t6_19.addEventListener("click", function(){
+        window.location.href = "t6_18.html";
+    })
+}
+
+let boton_siguiente_t6_19 = document.getElementById("boton_siguiente_t6_19");
+
+if (boton_siguiente_t6_19 != null){
+    boton_siguiente_t6_19.addEventListener("click", function(){
+        window.location.href = "t6_20.html";
+    })
+}
+
+let boton_anterior_t6_20 = document.getElementById("boton_anterior_t6_20");
+
+if (boton_anterior_t6_20 != null){
+    boton_anterior_t6_20.addEventListener("click", function(){
+        window.location.href = "t6_19.html";
+    })
+}
+
+let boton_siguiente_t6_20 = document.getElementById("boton_siguiente_t6_20");
+
+if (boton_siguiente_t6_20 != null){
+    boton_siguiente_t6_20.addEventListener("click", function(){
+        window.location.href = "t6_21.html";
+    })
+}
+
+let boton_anterior_t6_21 = document.getElementById("boton_anterior_t6_21");
+
+if (boton_anterior_t6_21 != null){
+    boton_anterior_t6_21.addEventListener("click", function(){
+        window.location.href = "t6_20.html";
+    })
+}
+
+let boton_siguiente_t6_21 = document.getElementById("boton_siguiente_t6_21");
+
+if (boton_siguiente_t6_21 != null){
+    boton_siguiente_t6_21.addEventListener("click", function(){
+        window.location.href = "t6_22.html";
+    })
+}
+
+let boton_anterior_t6_22 = document.getElementById("boton_anterior_t6_22");
+
+if (boton_anterior_t6_22 != null){
+    boton_anterior_t6_22.addEventListener("click", function(){
+        window.location.href = "t6_21.html";
+    })
+}
+
+let boton_siguiente_t6_22 = document.getElementById("boton_siguiente_t6_22");
+
+if (boton_siguiente_t6_22 != null){
+    boton_siguiente_t6_22.addEventListener("click", function(){
+        window.location.href = "t6_23.html";
+    })
+}
+
+let boton_anterior_t6_23 = document.getElementById("boton_anterior_t6_23");
+
+if (boton_anterior_t6_23 != null){
+    boton_anterior_t6_23.addEventListener("click", function(){
+        window.location.href = "t6_22.html";
+    })
+}
+
+let boton_siguiente_t6_23 = document.getElementById("boton_siguiente_t6_23");
+
+if (boton_siguiente_t6_23 != null){
+    boton_siguiente_t6_23.addEventListener("click", function(){
+        window.location.href = "t6_24.html";
+    })
+}
+
+let boton_anterior_t6_24 = document.getElementById("boton_anterior_t6_24");
+
+if (boton_anterior_t6_24 != null){
+    boton_anterior_t6_24.addEventListener("click", function(){
+        window.location.href = "t6_23.html";
+    })
+}
+
+let boton_siguiente_t6_24 = document.getElementById("boton_siguiente_t6_24");
+
+if (boton_siguiente_t6_24 != null){
+    boton_siguiente_t6_24.addEventListener("click", function(){
+        window.location.href = "t6_25.html";
+    })
+}
+
+let boton_anterior_t6_25 = document.getElementById("boton_anterior_t6_25");
+
+if (boton_anterior_t6_25 != null){
+    boton_anterior_t6_25.addEventListener("click", function(){
+        window.location.href = "t6_24.html";
+    })
+}
+
+let boton_siguiente_t6_25 = document.getElementById("boton_siguiente_t6_25");
+
+if (boton_siguiente_t6_25 != null){
+    boton_siguiente_t6_25.addEventListener("click", function(){
+        window.location.href = "t6_26.html";
+    })
+}
+
+let boton_anterior_t6_26 = document.getElementById("boton_anterior_t6_26");
+
+if (boton_anterior_t6_26 != null){
+    boton_anterior_t6_26.addEventListener("click", function(){
+        window.location.href = "t6_25.html";
+    })
+}
+
+let boton_siguiente_t6_26 = document.getElementById("boton_siguiente_t6_26");
+
+if (boton_siguiente_t6_26 != null){
+    boton_siguiente_t6_26.addEventListener("click", function(){
+        window.location.href = "t6_27.html";
+    })
+}
+
+let boton_anterior_t6_27 = document.getElementById("boton_anterior_t6_27");
+
+if (boton_anterior_t6_27 != null){
+    boton_anterior_t6_27.addEventListener("click", function(){
+        window.location.href = "t6_26.html";
+    })
+}
+
+let boton_siguiente_t6_27 = document.getElementById("boton_siguiente_t6_27");
+
+if (boton_siguiente_t6_27 != null){
+    boton_siguiente_t6_27.addEventListener("click", function(){
+        window.location.href = "t6_28.html";
+    })
+}
+
+let boton_anterior_t6_28 = document.getElementById("boton_anterior_t6_28");
+
+if (boton_anterior_t6_28 != null){
+    boton_anterior_t6_28.addEventListener("click", function(){
+        window.location.href = "t6_27.html";
+    })
+}
+
+let boton_siguiente_t6_28 = document.getElementById("boton_siguiente_t6_28");
+
+if (boton_siguiente_t6_28 != null){
+    boton_siguiente_t6_28.addEventListener("click", function(){
+        window.location.href = "t6_29.html";
+    })
+}
+
+let boton_anterior_t6_29 = document.getElementById("boton_anterior_t6_29");
+
+if (boton_anterior_t6_29 != null){
+    boton_anterior_t6_29.addEventListener("click", function(){
+        window.location.href = "t6_28.html";
+    })
+}
+
+let boton_siguiente_t6_29 = document.getElementById("boton_siguiente_t6_29");
+
+if (boton_siguiente_t6_29 != null){
+    boton_siguiente_t6_29.addEventListener("click", function(){
+        window.location.href = "t6_30.html";
+    })
+}
+
+let boton_anterior_t6_30 = document.getElementById("boton_anterior_t6_30");
+
+if (boton_anterior_t6_30 != null){
+    boton_anterior_t6_30.addEventListener("click", function(){
+        window.location.href = "t6_29.html";
+    })
+}
+
+let boton_siguiente_t6_30 = document.getElementById("boton_siguiente_t6_30");
+
+if (boton_siguiente_t6_30 != null){
+    boton_siguiente_t6_30.addEventListener("click", function(){
+        window.location.href = "t6_31.html";
+    })
+}
+
+let boton_anterior_t6_31 = document.getElementById("boton_anterior_t6_31");
+
+if (boton_anterior_t6_31 != null){
+    boton_anterior_t6_31.addEventListener("click", function(){
+        window.location.href = "t6_30.html";
+    })
+}
+
+let boton_siguiente_t6_31 = document.getElementById("boton_siguiente_t6_31");
+
+if (boton_siguiente_t6_31 != null){
+    boton_siguiente_t6_31.addEventListener("click", function(){
+        window.location.href = "t6_32.html";
+    })
+}
+
+let boton_anterior_t6_32 = document.getElementById("boton_anterior_t6_32");
+
+if (boton_anterior_t6_32 != null){
+    boton_anterior_t6_32.addEventListener("click", function(){
+        window.location.href = "t6_31.html";
+    })
+}
+
+let boton_siguiente_t6_32 = document.getElementById("boton_siguiente_t6_32");
+
+if (boton_siguiente_t6_32 != null){
+    boton_siguiente_t6_32.addEventListener("click", function(){
+        window.location.href = "t6_33.html";
+    })
+}
+
+let boton_anterior_t6_33 = document.getElementById("boton_anterior_t6_33");
+
+if (boton_anterior_t6_33 != null){
+    boton_anterior_t6_33.addEventListener("click", function(){
+        window.location.href = "t6_32.html";
+    })
+}
+
+let boton_siguiente_t6_33 = document.getElementById("boton_siguiente_t6_33");
+
+if (boton_siguiente_t6_33 != null){
+    boton_siguiente_t6_33.addEventListener("click", function(){
+        window.location.href = "t6_34.html";
+    })
+}
+
+let boton_anterior_t6_34 = document.getElementById("boton_anterior_t6_34");
+
+if (boton_anterior_t6_34 != null){
+    boton_anterior_t6_34.addEventListener("click", function(){
+        window.location.href = "t6_33.html";
+    })
+}
+
+let boton_siguiente_t6_34 = document.getElementById("boton_siguiente_t6_34");
+
+if (boton_siguiente_t6_34 != null){
+    boton_siguiente_t6_34.addEventListener("click", function(){
+        window.location.href = "t6_35.html";
+    })
+}
+
+let boton_anterior_t6_35 = document.getElementById("boton_anterior_t6_35");
+
+if (boton_anterior_t6_35 != null){
+    boton_anterior_t6_35.addEventListener("click", function(){
+        window.location.href = "t6_34.html";
+    })
+}
+
+let boton_siguiente_t6_35 = document.getElementById("boton_siguiente_t6_35");
+
+if (boton_siguiente_t6_35 != null){
+    boton_siguiente_t6_35.addEventListener("click", function(){
+        window.location.href = "t6_36.html";
+    })
+}
+
+let boton_anterior_t6_36 = document.getElementById("boton_anterior_t6_36");
+
+if (boton_anterior_t6_36 != null){
+    boton_anterior_t6_36.addEventListener("click", function(){
+        window.location.href = "t6_35.html";
+    })
+}
+
+let boton_siguiente_t6_36 = document.getElementById("boton_siguiente_t6_36");
+
+if (boton_siguiente_t6_36 != null){
+    boton_siguiente_t6_36.addEventListener("click", function(){
+        window.location.href = "t6_37.html";
+    })
+}
+
+let boton_anterior_t6_37 = document.getElementById("boton_anterior_t6_37");
+
+if (boton_anterior_t6_37 != null){
+    boton_anterior_t6_37.addEventListener("click", function(){
+        window.location.href = "t6_36.html";
+    })
+}
+
+let boton_siguiente_t6_37 = document.getElementById("boton_siguiente_t6_37");
+
+if (boton_siguiente_t6_37 != null){
+    boton_siguiente_t6_37.addEventListener("click", function(){
+        window.location.href = "t6_38.html";
+    })
+}
+
+let boton_anterior_t6_38 = document.getElementById("boton_anterior_t6_38");
+
+if (boton_anterior_t6_38 != null){
+    boton_anterior_t6_38.addEventListener("click", function(){
+        window.location.href = "t6_37.html";
+    })
+}
+
+let boton_siguiente_t6_38 = document.getElementById("boton_siguiente_t6_38");
+
+if (boton_siguiente_t6_38 != null){
+    boton_siguiente_t6_38.addEventListener("click", function(){
+        window.location.href = "t6_39.html";
+    })
+}
+
+let boton_anterior_t6_39 = document.getElementById("boton_anterior_t6_39");
+
+if (boton_anterior_t6_39 != null){
+    boton_anterior_t6_39.addEventListener("click", function(){
+        window.location.href = "t6_38.html";
+    })
+}
+
+let boton_siguiente_t6_39 = document.getElementById("boton_siguiente_t6_39");
+
+if (boton_siguiente_t6_39 != null){
+    boton_siguiente_t6_39.addEventListener("click", function(){
+        window.location.href = "t6_40.html";
+    })
+}
+
+let boton_anterior_t6_40 = document.getElementById("boton_anterior_t6_40");
+
+if (boton_anterior_t6_40 != null){
+    boton_anterior_t6_40.addEventListener("click", function(){
+        window.location.href = "t6_39.html";
+    })
+}
+
+let boton_siguiente_t6_40 = document.getElementById("boton_siguiente_t6_40");
+
+if (boton_siguiente_t6_40 != null){
+    boton_siguiente_t6_40.addEventListener("click", function(){
+        window.location.href = "t6_41.html";
+    })
+}
+
+let boton_anterior_t6_41 = document.getElementById("boton_anterior_t6_41");
+
+if (boton_anterior_t6_41 != null){
+    boton_anterior_t6_41.addEventListener("click", function(){
+        window.location.href = "t6_40.html";
+    })
+}
+
+let boton_siguiente_t6_41 = document.getElementById("boton_siguiente_t6_41");
+
+if (boton_siguiente_t6_41 != null){
+    boton_siguiente_t6_41.addEventListener("click", function(){
+        window.location.href = "t6_42.html";
+    })
+}
+
+let boton_anterior_t6_42 = document.getElementById("boton_anterior_t6_42");
+
+if (boton_anterior_t6_42 != null){
+    boton_anterior_t6_42.addEventListener("click", function(){
+        window.location.href = "t6_41.html";
+    })
+}
+
+let boton_siguiente_t6_42 = document.getElementById("boton_siguiente_t6_42");
+
+if (boton_siguiente_t6_42 != null){
+    boton_siguiente_t6_42.addEventListener("click", function(){
+        window.location.href = "t6_43.html";
+    })
+}
+
+let boton_anterior_t6_43 = document.getElementById("boton_anterior_t6_43");
+
+if (boton_anterior_t6_43 != null){
+    boton_anterior_t6_43.addEventListener("click", function(){
+        window.location.href = "t6_42.html";
+    })
+}
+
+let boton_siguiente_t6_43 = document.getElementById("boton_siguiente_t6_43");
+
+if (boton_siguiente_t6_43 != null){
+    boton_siguiente_t6_43.addEventListener("click", function(){
+        window.location.href = "t6_44.html";
+    })
+}
+
+let boton_anterior_t6_44 = document.getElementById("boton_anterior_t6_44");
+
+if (boton_anterior_t6_44 != null){
+    boton_anterior_t6_44.addEventListener("click", function(){
+        window.location.href = "t6_43.html";
+    })
+}
+
+let boton_siguiente_t6_44 = document.getElementById("boton_siguiente_t6_44");
+
+if (boton_siguiente_t6_44 != null){
+    boton_siguiente_t6_44.addEventListener("click", function(){
+        window.location.href = "t6_45.html";
+    })
+}
+
+let boton_anterior_t6_45 = document.getElementById("boton_anterior_t6_45");
+
+if (boton_anterior_t6_45 != null){
+    boton_anterior_t6_45.addEventListener("click", function(){
+        window.location.href = "t6_44.html";
+    })
+}
+
+let boton_siguiente_t6_45 = document.getElementById("boton_siguiente_t6_45");
+
+if (boton_siguiente_t6_45 != null){
+    boton_siguiente_t6_45.addEventListener("click", function(){
+        window.location.href = "t6_46.html";
+    })
+}
+
+let boton_anterior_t6_46 = document.getElementById("boton_anterior_t6_46");
+
+if (boton_anterior_t6_46 != null){
+    boton_anterior_t6_46.addEventListener("click", function(){
+        window.location.href = "t6_45.html";
+    })
+}
+
+let boton_siguiente_t6_46 = document.getElementById("boton_siguiente_t6_46");
+
+if (boton_siguiente_t6_46 != null){
+    boton_siguiente_t6_46.addEventListener("click", function(){
+        window.location.href = "t6_47.html";
+    })
+}
+
+let boton_anterior_t6_47 = document.getElementById("boton_anterior_t6_47");
+
+if (boton_anterior_t6_47 != null){
+    boton_anterior_t6_47.addEventListener("click", function(){
+        window.location.href = "t6_46.html";
+    })
+}
+
+let boton_siguiente_t6_47 = document.getElementById("boton_siguiente_t6_47");
+
+if (boton_siguiente_t6_47 != null){
+    boton_siguiente_t6_47.addEventListener("click", function(){
+        window.location.href = "t6_48.html";
+    })
+}
+
+let boton_anterior_t6_48 = document.getElementById("boton_anterior_t6_48");
+
+if (boton_anterior_t6_48 != null){
+    boton_anterior_t6_48.addEventListener("click", function(){
+        window.location.href = "t6_47.html";
+    })
+}
+
+let boton_siguiente_t6_48 = document.getElementById("boton_siguiente_t6_48");
+
+if (boton_siguiente_t6_48 != null){
+    boton_siguiente_t6_48.addEventListener("click", function(){
+        window.location.href = "t6_49.html";
+    })
+}
+
+let boton_anterior_t6_49 = document.getElementById("boton_anterior_t6_49");
+
+if (boton_anterior_t6_49 != null){
+    boton_anterior_t6_49.addEventListener("click", function(){
+        window.location.href = "t6_48.html";
+    })
+}
+
+let boton_siguiente_t6_49 = document.getElementById("boton_siguiente_t6_49");
+
+if (boton_siguiente_t6_49 != null){
+    boton_siguiente_t6_49.addEventListener("click", function(){
+        window.location.href = "t6_50.html";
+    })
+}
+
+let boton_anterior_t6_50 = document.getElementById("boton_anterior_t6_50");
+
+if (boton_anterior_t6_50 != null){
+    boton_anterior_t6_50.addEventListener("click", function(){
+        window.location.href = "t6_49.html";
+    })
+}
+
+let boton_siguiente_t6_50 = document.getElementById("boton_siguiente_t6_50");
+
+if (boton_siguiente_t6_50 != null){
+    boton_siguiente_t6_50.addEventListener("click", function(){
+        window.location.href = "t6_51.html";
+    })
+}
+
+let boton_anterior_t6_51 = document.getElementById("boton_anterior_t6_51");
+
+if (boton_anterior_t6_51 != null){
+    boton_anterior_t6_51.addEventListener("click", function(){
+        window.location.href = "t6_50.html";
+    })
+}
+
+let boton_siguiente_t6_51 = document.getElementById("boton_siguiente_t6_51");
+
+if (boton_siguiente_t6_51 != null){
+    boton_siguiente_t6_51.addEventListener("click", function(){
+        window.location.href = "t6_52.html";
+    })
+}
+
+let boton_anterior_t6_52 = document.getElementById("boton_anterior_t6_52");
+
+if (boton_anterior_t6_52 != null){
+    boton_anterior_t6_52.addEventListener("click", function(){
+        window.location.href = "t6_51.html";
+    })
+}
+
+let boton_siguiente_t6_52 = document.getElementById("boton_siguiente_t6_52");
+
+if (boton_siguiente_t6_52 != null){
+    boton_siguiente_t6_52.addEventListener("click", function(){
+        window.location.href = "t6_53.html";
+    })
+}
+
+let boton_anterior_t6_53 = document.getElementById("boton_anterior_t6_53");
+
+if (boton_anterior_t6_53 != null){
+    boton_anterior_t6_53.addEventListener("click", function(){
+        window.location.href = "t6_52.html";
+    })
+}
+
+let boton_siguiente_t6_53 = document.getElementById("boton_siguiente_t6_53");
+
+if (boton_siguiente_t6_53 != null){
+    boton_siguiente_t6_53.addEventListener("click", function(){
+        window.location.href = "t6_54.html";
+    })
+}
+
+let boton_anterior_t6_54 = document.getElementById("boton_anterior_t6_54");
+
+if (boton_anterior_t6_54 != null){
+    boton_anterior_t6_54.addEventListener("click", function(){
+        window.location.href = "t6_53.html";
+    })
+}
+
+let boton_siguiente_t6_54 = document.getElementById("boton_siguiente_t6_54");
+
+if (boton_siguiente_t6_54 != null){
+    boton_siguiente_t6_54.addEventListener("click", function(){
+        window.location.href = "t6_55.html";
+    })
+}
+
+let boton_anterior_t6_55 = document.getElementById("boton_anterior_t6_55");
+
+if (boton_anterior_t6_55 != null){
+    boton_anterior_t6_55.addEventListener("click", function(){
+        window.location.href = "t6_54.html";
+    })
+}
+
+let boton_siguiente_t6_55 = document.getElementById("boton_siguiente_t6_55");
+
+if (boton_siguiente_t6_55 != null){
+    boton_siguiente_t6_55.addEventListener("click", function(){
+        window.location.href = "t6_56.html";
+    })
+}
+
+let boton_anterior_t6_56 = document.getElementById("boton_anterior_t6_56");
+
+if (boton_anterior_t6_56 != null){
+    boton_anterior_t6_56.addEventListener("click", function(){
+        window.location.href = "t6_55.html";
+    })
+}
+
+let boton_siguiente_t6_56 = document.getElementById("boton_siguiente_t6_56");
+
+if (boton_siguiente_t6_56 != null){
+    boton_siguiente_t6_56.addEventListener("click", function(){
+        window.location.href = "t6_57.html";
+    })
+}
+
+let boton_anterior_t6_57 = document.getElementById("boton_anterior_t6_57");
+
+if (boton_anterior_t6_57 != null){
+    boton_anterior_t6_57.addEventListener("click", function(){
+        window.location.href = "t6_56.html";
+    })
+}
+
+let boton_siguiente_t6_57 = document.getElementById("boton_siguiente_t6_57");
+
+if (boton_siguiente_t6_57 != null){
+    boton_siguiente_t6_57.addEventListener("click", function(){
+        window.location.href = "t6_58.html";
+    })
+}
+
+let boton_anterior_t6_58 = document.getElementById("boton_anterior_t6_58");
+
+if (boton_anterior_t6_58 != null){
+    boton_anterior_t6_58.addEventListener("click", function(){
+        window.location.href = "t6_57.html";
+    })
+}
+
+let boton_siguiente_t6_58 = document.getElementById("boton_siguiente_t6_58");
+
+if (boton_siguiente_t6_58 != null){
+    boton_siguiente_t6_58.addEventListener("click", function(){
+        window.location.href = "t6_59.html";
+    })
+}
+
+let boton_anterior_t6_59 = document.getElementById("boton_anterior_t6_59");
+
+if (boton_anterior_t6_59 != null){
+    boton_anterior_t6_59.addEventListener("click", function(){
+        window.location.href = "t6_58.html";
+    })
+}
+
+let boton_siguiente_t6_59 = document.getElementById("boton_siguiente_t6_59");
+
+if (boton_siguiente_t6_59 != null){
+    boton_siguiente_t6_59.addEventListener("click", function(){
+        window.location.href = "t6_60.html";
+    })
+}
+
+let boton_anterior_t6_60 = document.getElementById("boton_anterior_t6_60");
+
+if (boton_anterior_t6_60 != null){
+    boton_anterior_t6_60.addEventListener("click", function(){
+        window.location.href = "t6_59.html";
+    })
+}
+
+let boton_siguiente_t6_60 = document.getElementById("boton_siguiente_t6_60");
+
+if (boton_siguiente_t6_60 != null){
+    boton_siguiente_t6_60.addEventListener("click", function(){
+        window.location.href = "t6_61.html";
+    })
+}
+
+let boton_anterior_t6_61 = document.getElementById("boton_anterior_t6_61");
+
+if (boton_anterior_t6_61 != null){
+    boton_anterior_t6_61.addEventListener("click", function(){
+        window.location.href = "t6_60.html";
+    })
+}
+
+let boton_siguiente_t6_61 = document.getElementById("boton_siguiente_t6_61");
+
+if (boton_siguiente_t6_61 != null){
+    boton_siguiente_t6_61.addEventListener("click", function(){
+        window.location.href = "t6_62.html";
+    })
+}
+
+let boton_anterior_t6_62 = document.getElementById("boton_anterior_t6_62");
+
+if (boton_anterior_t6_62 != null){
+    boton_anterior_t6_62.addEventListener("click", function(){
+        window.location.href = "t6_61.html";
+    })
+}
+
+let boton_siguiente_t6_62 = document.getElementById("boton_siguiente_t6_62");
+
+if (boton_siguiente_t6_62 != null){
+    boton_siguiente_t6_62.addEventListener("click", function(){
+        window.location.href = "t6_63.html";
+    })
+}
+
+let boton_anterior_t6_63 = document.getElementById("boton_anterior_t6_63");
+
+if (boton_anterior_t6_63 != null){
+    boton_anterior_t6_63.addEventListener("click", function(){
+        window.location.href = "t6_62.html";
+    })
+}
+
+let boton_siguiente_t6_63 = document.getElementById("boton_siguiente_t6_63");
+
+if (boton_siguiente_t6_63 != null){
+    boton_siguiente_t6_63.addEventListener("click", function(){
+        window.location.href = "t6_64.html";
+    })
+}
+
+let boton_anterior_t6_64 = document.getElementById("boton_anterior_t6_64");
+
+if (boton_anterior_t6_64 != null){
+    boton_anterior_t6_64.addEventListener("click", function(){
+        window.location.href = "t6_63.html";
+    })
+}
+
+let boton_siguiente_t6_64 = document.getElementById("boton_siguiente_t6_64");
+
+if (boton_siguiente_t6_64 != null){
+    boton_siguiente_t6_64.addEventListener("click", function(){
+        window.location.href = "t6_65.html";
+    })
+}
+
+let boton_anterior_t6_65 = document.getElementById("boton_anterior_t6_65");
+
+if (boton_anterior_t6_65 != null){
+    boton_anterior_t6_65.addEventListener("click", function(){
+        window.location.href = "t6_64.html";
+    })
+}
+
+let boton_siguiente_t6_65 = document.getElementById("boton_siguiente_t6_65");
+
+if (boton_siguiente_t6_65 != null){
+    boton_siguiente_t6_65.addEventListener("click", function(){
+        window.location.href = "t6_66.html";
+    })
+}
+
+let boton_anterior_t6_66 = document.getElementById("boton_anterior_t6_66");
+
+if (boton_anterior_t6_66 != null){
+    boton_anterior_t6_66.addEventListener("click", function(){
+        window.location.href = "t6_65.html";
+    })
+}
+
+let boton_siguiente_t6_66 = document.getElementById("boton_siguiente_t6_66");
+
+if (boton_siguiente_t6_66 != null){
+    boton_siguiente_t6_66.addEventListener("click", function(){
+        window.location.href = "t6_67.html";
+    })
+}
+
+let boton_anterior_t6_67 = document.getElementById("boton_anterior_t6_67");
+
+if (boton_anterior_t6_67 != null){
+    boton_anterior_t6_67.addEventListener("click", function(){
+        window.location.href = "t6_66.html";
+    })
+}
+
+let boton_siguiente_t6_67 = document.getElementById("boton_siguiente_t6_67");
+
+if (boton_siguiente_t6_67 != null){
+    boton_siguiente_t6_67.addEventListener("click", function(){
+        window.location.href = "t6_68.html";
+    })
+}
+
+let boton_anterior_t6_68 = document.getElementById("boton_anterior_t6_68");
+
+if (boton_anterior_t6_68 != null){
+    boton_anterior_t6_68.addEventListener("click", function(){
+        window.location.href = "t6_67.html";
+    })
+}
+
+let boton_siguiente_t6_68 = document.getElementById("boton_siguiente_t6_68");
+
+if (boton_siguiente_t6_68 != null){
+    boton_siguiente_t6_68.addEventListener("click", function(){
+        window.location.href = "t6_epilogo.html";
+    })
+}
+
+let boton_anterior_t6_epilogo = document.getElementById("boton_anterior_t6_epilogo");
+
+if (boton_anterior_t6_epilogo != null){
+    boton_anterior_t6_epilogo.addEventListener("click", function(){
+        window.location.href = "t6_68.html";
+    })
+}
+
+let boton_siguiente_t6_epilogo = document.getElementById("boton_siguiente_t6_epilogo");
+
+if (boton_siguiente_t6_epilogo != null){
+    boton_siguiente_t6_epilogo.addEventListener("click", function(){
+        window.location.href = "../Temporada 7/t7_prologo.html";
+    })
+}
+
+let boton_anterior_t7_prologo = document.getElementById("boton_anterior_t7_prologo");
+
+if (boton_anterior_t7_prologo != null){
+    boton_anterior_t7_prologo.addEventListener("click", function(){
+        window.location.href = "../Temporada 6/t6_epilogo.html";
+    })
+}
