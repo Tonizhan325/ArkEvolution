@@ -1,5 +1,4 @@
 body{
-    background-image: url("../Imagenes/portada_ark_evolution.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -15,4 +14,25 @@ body{
     -webkit-text-fill-color: transparent; 
     text-align: center;
     font-size: 10vh;
+}
+
+table, tr, td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    text-align: center;
+}
+
+table{
+    margin: 0 auto;
+}
+
+#divBoton{
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    height: 4vh;
+    width: 20vw;
+    background: linear-gradient(to right, red, blue, green);
 }

@@ -811,6 +811,30 @@ if (boton_escarabajo_pelotero != null){
     })
 }
 
+let boton_arctodus = document.getElementById("arctodus");
+
+if (boton_arctodus != null){
+    boton_arctodus.addEventListener("click", function(){
+        window.location.href = "arctodus.html"
+    })
+}
+
+let boton_abeja_gigante = document.getElementById("abeja_gigante");
+
+if (boton_abeja_gigante != null){
+    boton_abeja_gigante.addEventListener("click", function(){
+        window.location.href = "abeja_gigante.html"
+    })
+}
+
+let boton_oviraptor = document.getElementById("oviraptor");
+
+if (boton_oviraptor != null){
+    boton_oviraptor.addEventListener("click", function(){
+        window.location.href = "oviraptor.html"
+    })
+}
+
 //NIVELES DE PODERES
 
 let boton_niveles_de_poderes_t1 = document.getElementById("niveles_de_poderes_t1");
