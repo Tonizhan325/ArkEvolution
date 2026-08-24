@@ -835,6 +835,14 @@ if (boton_oviraptor != null){
     })
 }
 
+let boton_paraceratherium = document.getElementById("paraceratherium");
+
+if (boton_paraceratherium != null){
+    boton_paraceratherium.addEventListener("click", function(){
+        window.location.href = "paraceratherium.html"
+    })
+}
+
 //NIVELES DE PODERES
 
 let boton_niveles_de_poderes_t1 = document.getElementById("niveles_de_poderes_t1");
@@ -2257,6 +2265,15 @@ if (boton_odin != null){
         window.location.href = "odin.html"
     })
 }
+
+let boton_hound = document.getElementById("hound");
+
+if (boton_hound != null){
+    boton_hound.addEventListener("click", function(){
+        window.location.href = "hound.html"
+    })
+}
+
 
 //SISTEMA DE PODER
 
