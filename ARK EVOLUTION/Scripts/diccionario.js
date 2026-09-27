@@ -2274,6 +2274,22 @@ if (boton_hound != null){
     })
 }
 
+let boton_fred = document.getElementById("fred");
+
+if (boton_fred != null){
+    boton_fred.addEventListener("click", function(){
+        window.location.href = "fred.html"
+    })
+}
+
+let boton_annie = document.getElementById("annie");
+
+if (boton_annie != null){
+    boton_annie.addEventListener("click", function(){
+        window.location.href = "annie.html"
+    })
+}
+
 
 //SISTEMA DE PODER
 
