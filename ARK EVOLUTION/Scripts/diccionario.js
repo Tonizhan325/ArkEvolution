@@ -843,6 +843,30 @@ if (boton_paraceratherium != null){
     })
 }
 
+let boton_megalania = document.getElementById("megalania");
+
+if (boton_megalania != null){
+    boton_megalania.addEventListener("click", function(){
+        window.location.href = "megalania.html"
+    })
+}
+
+let boton_lobo_gigante = document.getElementById("lobo_gigante");
+
+if (boton_lobo_gigante != null){
+    boton_lobo_gigante.addEventListener("click", function(){
+        window.location.href = "lobo_gigante.html"
+    })
+}
+
+let boton_purlovia = document.getElementById("purlovia");
+
+if (boton_purlovia != null){
+    boton_purlovia.addEventListener("click", function(){
+        window.location.href = "purlovia.html"
+    })
+}
+
 //NIVELES DE PODERES
 
 let boton_niveles_de_poderes_t1 = document.getElementById("niveles_de_poderes_t1");
@@ -2290,6 +2314,77 @@ if (boton_annie != null){
     })
 }
 
+let boton_hela = document.getElementById("hela");
+
+if (boton_hela != null){
+    boton_hela.addEventListener("click", function(){
+        window.location.href = "hela.html"
+    })
+}
+
+let boton_frigg = document.getElementById("frigg");
+
+if (boton_frigg != null){
+    boton_frigg.addEventListener("click", function(){
+        window.location.href = "frigg.html"
+    })
+}
+
+let boton_baldur = document.getElementById("baldur");
+
+if (boton_baldur != null){
+    boton_baldur.addEventListener("click", function(){
+        window.location.href = "baldur.html"
+    })
+}
+
+let boton_heimdal = document.getElementById("heimdal");
+
+if (boton_heimdal != null){
+    boton_heimdal.addEventListener("click", function(){
+        window.location.href = "heimdal.html"
+    })
+}
+
+let boton_thor = document.getElementById("thor");
+
+if (boton_thor != null){
+    boton_thor.addEventListener("click", function(){
+        window.location.href = "thor.html"
+    })
+}
+
+let boton_tyr = document.getElementById("tyr");
+
+if (boton_tyr != null){
+    boton_tyr.addEventListener("click", function(){
+        window.location.href = "tyr.html"
+    })
+}
+
+let boton_zora = document.getElementById("zora");
+
+if (boton_zora != null){
+    boton_zora.addEventListener("click", function(){
+        window.location.href = "zora.html"
+    })
+}
+
+let boton_wings = document.getElementById("wings");
+
+if (boton_wings != null){
+    boton_wings.addEventListener("click", function(){
+        window.location.href = "wings.html"
+    })
+}
+
+let boton_sinichiro = document.getElementById("sinichiro");
+
+if (boton_sinichiro != null){
+    boton_sinichiro.addEventListener("click", function(){
+        window.location.href = "sinichiro.html"
+    })
+}
 
 //SISTEMA DE PODER
 
