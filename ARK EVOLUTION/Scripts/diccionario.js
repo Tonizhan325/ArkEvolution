@@ -867,6 +867,46 @@ if (boton_purlovia != null){
     })
 }
 
+let boton_andrewsarchus = document.getElementById("andrewsarchus");
+
+if (boton_andrewsarchus != null){
+    boton_andrewsarchus.addEventListener("click", function(){
+        window.location.href = "andrewsarchus.html"
+    })
+}
+
+let boton_desmodus = document.getElementById("desmodus");
+
+if (boton_desmodus != null){
+    boton_desmodus.addEventListener("click", function(){
+        window.location.href = "desmodus.html"
+    })
+}
+
+let boton_golem_lava = document.getElementById("golem_lava");
+
+if (boton_golem_lava != null){
+    boton_golem_lava.addEventListener("click", function(){
+        window.location.href = "golem_lava.html"
+    })
+}
+
+let boton_dinophitecus = document.getElementById("dinophitecus");
+
+if (boton_dinophitecus != null){
+    boton_dinophitecus.addEventListener("click", function(){
+        window.location.href = "dinophitecus.html"
+    })
+}
+
+let boton_rey_dinophitecus = document.getElementById("rey_dinophitecus");
+
+if (boton_rey_dinophitecus != null){
+    boton_rey_dinophitecus.addEventListener("click", function(){
+        window.location.href = "rey_dinophitecus.html"
+    })
+}
+
 //NIVELES DE PODERES
 
 let boton_niveles_de_poderes_t1 = document.getElementById("niveles_de_poderes_t1");
@@ -2386,6 +2426,22 @@ if (boton_sinichiro != null){
     })
 }
 
+let boton_magna = document.getElementById("magna");
+
+if (boton_magna != null){
+    boton_magna.addEventListener("click", function(){
+        window.location.href = "magna.html"
+    })
+}
+
+let boton_saber = document.getElementById("saber");
+
+if (boton_saber != null){
+    boton_saber.addEventListener("click", function(){
+        window.location.href = "saber.html"
+    })
+}
+
 //SISTEMA DE PODER
 
 let boton_energia_ambiental = document.getElementById("energia_ambiental");
@@ -2741,6 +2797,13 @@ if (boton_tiempo != null){
     })
 }
 
+let boton_magma = document.getElementById("magma");
+
+if (boton_magma != null){
+    boton_magma.addEventListener("click", function(){
+        window.location.href = "magma.html"
+    })
+}
 
 let boton_ojos_divinos = document.getElementById("ojo_divino");
 
