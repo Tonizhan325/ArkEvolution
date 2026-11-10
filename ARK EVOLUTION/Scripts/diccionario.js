@@ -907,6 +907,22 @@ if (boton_rey_dinophitecus != null){
     })
 }
 
+let boton_kairuku = document.getElementById("kairuku");
+
+if (boton_kairuku != null){
+    boton_kairuku.addEventListener("click", function(){
+        window.location.href = "kairuku.html"
+    })
+}
+
+let boton_procoptodon = document.getElementById("procoptodon");
+
+if (boton_procoptodon != null){
+    boton_procoptodon.addEventListener("click", function(){
+        window.location.href = "procoptodon.html"
+    })
+}
+
 //NIVELES DE PODERES
 
 let boton_niveles_de_poderes_t1 = document.getElementById("niveles_de_poderes_t1");
@@ -2633,6 +2649,22 @@ let boton_kentrosaurio_armadura = document.getElementById("kentrosaurio_armadura
 if (boton_kentrosaurio_armadura != null){
     boton_kentrosaurio_armadura.addEventListener("click", function(){
         window.location.href = "kentrosaurio.html"
+    })
+}
+
+let boton_kairuku_armadura = document.getElementById("kairuku_armadura");
+
+if (boton_kairuku_armadura != null){
+    boton_kairuku_armadura.addEventListener("click", function(){
+        window.location.href = "kairuku.html"
+    })
+}
+
+let boton_procoptodon_armadura = document.getElementById("procoptodon_armadura");
+
+if (boton_procoptodon_armadura != null){
+    boton_procoptodon_armadura.addEventListener("click", function(){
+        window.location.href = "procoptodon.html"
     })
 }
 
